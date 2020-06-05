@@ -1,0 +1,222 @@
+wdb_code,region,pt,iso3,ponto_lat,ponto_lon,is_small,continent5,continent7
+AFG,Afghanistan,Afeganistão,AFG,34.28,65.68,NA,Asia,Asia
+ALB,Albania,Albânia,ALB,41.22,19.98,NA,Europe,Europe
+DZA,Algeria,Argélia,DZA,27.92,2.62,NA,Africa,Africa
+AND,Andorra,Andorra,AND,42.54,1.56,Yes,Europe,Europe
+AGO,Angola,Angola,AGO,-12.65,17.58,NA,Africa,Africa
+ATG,Antigua,Antígua e Barbuda,ATG,17.08,-61.8,NA,America,Central America
+ARG,Argentina,Argentina,ARG,-33.69,-65.08,NA,America,South America
+ARM,Armenia,Armênia,ARM,40.35,44.56,NA,Asia,Europe
+ABW,Aruba,Aruba,ABW,12.5,-69.96,NA,America,Central America
+AUS,Australia,Austrália,AUS,-25.08,134.25,NA,Oceania,Oceania
+AUT,Austria,Áustria,AUT,47.52,14.12,NA,Europe,Europe
+AZE,Azerbaijan,Azerbaijão,AZE,40.32,47.99,NA,Asia,Europe
+BHS,Bahamas,Bahamas,BHS,24.68,-78.03,Yes,America,Central America
+BHR,Bahrain,Bahrein,BHR,26.04,50.55,Yes,Asia,Asia
+BGD,Bangladesh,Bangladesh,BGD,24.15,90.23,NA,Asia,Asia
+BRB,Barbados,Barbados,BRB,13.16,-59.55,Yes,America,Central America
+BLR,Belarus,Bielorússia,BLR,53.48,28.14,NA,Europe,Europe
+BEL,Belgium,Bélgica,BEL,50.64,4.67,NA,Europe,Europe
+BLZ,Belize,Belize,BLZ,16.92,-88.71,NA,America,Central America
+BEN,Benin,Benin,BEN,9.64,2.35,NA,Africa,Africa
+BTN,Bhutan,Butão,BTN,27.41,90.45,NA,Asia,Asia
+BOL,Bolivia,Bolívia,BOL,-16.73,-64.63,NA,America,South America
+BIH,Bosnia and Herzegovina,Bósnia e Herzegovina,BIH,44.32,17.83,NA,Europe,Europe
+BWA,Botswana,Botsuana,BWA,-22.2,23.78,NA,Africa,Africa
+BRA,Brazil,Brasil,BRA,-8.66,-52.32,NA,America,South America
+BRN,Brunei,Brunei,BRN,4.5,114.61,Yes,Asia,Asia
+BGR,Bulgaria,Bulgária,BGR,42.47,25.18,NA,Europe,Europe
+BFA,Burkina Faso,Burkina Faso,BFA,12.28,-1.73,NA,Africa,Africa
+BDI,Burundi,Burundi,BDI,-3.31,29.92,NA,Africa,Africa
+CPV,Cape Verde,Cabo Verde,CPV,15.24,-23.68,Yes,Africa,Africa
+KHM,Cambodia,Camboja,KHM,12.57,104.98,NA,Asia,Asia
+CMR,Cameroon,Camarões,CMR,5.63,12.74,NA,Africa,Africa
+CAN,Canada,Canadá,CAN,54.28,-104.85,NA,America,North America
+CAF,Central African Republic,Rep. Centro Africana,CAF,6.58,20.47,NA,Africa,Africa
+TCD,Chad,Chade,TCD,15,18.72,NA,Africa,Africa
+CHI,Channel Islands,Ilhas do Canal,NA,49.33,-2.32,NA,Europe,Europe
+CHL,Chile,Chile,CHL,-28.68,-71.25,NA,America,South America
+CHN,China,China,CHN,34.88,103.6,NA,Asia,Asia
+COL,Colombia,Colômbia,COL,3.22,-72.99,NA,America,South America
+COM,Comoros,Comores,COM,-11.67,43.34,Yes,Africa,Africa
+COG,Republic of Congo,Rep. do Congo,COG,-0.79,15.7,NA,Africa,Africa
+CRI,Costa Rica,Costa Rica,CRI,9.93,-83.99,NA,America,Central America
+HRV,Croatia,Croácia,HRV,45.01,15.13,NA,Europe,Europe
+CUB,Cuba,Cuba,CUB,21.74,-78.8,NA,America,Central America
+CUW,Curaçao,Curaçao,CUW,12.17,-68.99,Yes,America,Central America
+CYP,Cyprus,Chipre,CYP,34.99,33.19,Yes,Europe,Europe
+CZE,Czech Republic,Tchéquia,CZE,49.66,15.31,NA,Europe,Europe
+COD,Democratic Republic of the Congo,Rep. Dem. do Congo,COD,-2.82,23.62,NA,Africa,Africa
+DNK,Denmark,Dinamarca,DNK,55.59,10.11,NA,Europe,Europe
+DJI,Djibouti,Djibouti,DJI,11.73,42.58,NA,Africa,Africa
+DOM,Dominican Republic,Rep. Dominicana,DOM,18.89,-70.25,NA,America,Central America
+ECU,Ecuador,Equador,ECU,-1.39,-78.47,NA,America,South America
+EGY,Egypt,Egito,EGY,26.68,29.92,NA,Africa,Africa
+SLV,El Salvador,El Salvador,SLV,13.69,-88.85,NA,America,Central America
+GNQ,Equatorial Guinea,Guiné Equatorial,GNQ,1.55,10.48,NA,Africa,Africa
+ERI,Eritrea,Eritréia,ERI,15.48,38.92,NA,Africa,Africa
+EST,Estonia,Estônia,EST,58.68,25.78,NA,Europe,Europe
+ETH,Ethiopia,Etiópia,ETH,8.56,39.54,NA,Africa,Africa
+FJI,Fiji,Fiji,FJI,-17.82,177.97,Yes,Oceania,Oceania
+FIN,Finland,Finlândia,FIN,61.92,25.76,NA,Europe,Europe
+FRA,France,França,FRA,46.76,2.47,NA,Europe,Europe
+PYF,French Polynesia,Polinésia Francesa,PYF,-17.64,-149.45,Yes,Oceania,Oceania
+GAB,Gabon,Gabão,GAB,-0.6,11.77,NA,Africa,Africa
+GMB,Gambia,Gâmbia,GMB,13.49,-15.51,Yes,Africa,Africa
+GEO,Georgia,Geórgia,GEO,42.08,43.47,NA,Asia,Europe
+DEU,Germany,Alemanha,DEU,50.97,10.4,NA,Europe,Europe
+GHA,Ghana,Gana,GHA,7.93,-1.19,NA,Africa,Africa
+GRC,Greece,Grécia,GRC,39.19,22.81,NA,Europe,Europe
+GRD,Grenada,Granada,GRD,12.12,-61.68,Yes,America,Central America
+GUM,Guam,Guam,GUM,13.43,144.75,Yes,Oceania,Oceania
+GTM,Guatemala,Guatemala,GTM,15.52,-90.27,NA,America,Central America
+GIN,Guinea,Guiné,GIN,10.6,-11.19,NA,Africa,Africa
+GNB,Guinea-Bissau,Guiné-Bissau,GNB,12,-14.92,NA,Africa,Africa
+GUY,Guyana,Guiana,GUY,4.99,-58.95,NA,America,South America
+HTI,Haiti,Haiti,HTI,18.99,-72.79,NA,America,Central America
+HND,Honduras,Honduras,HND,14.83,-86.86,NA,America,Central America
+HKG,Hong Kong,Hong Kong,HKG,22.35,114.13,Yes,Asia,Asia
+HUN,Hungary,Hungria,HUN,46.97,19.41,NA,Europe,Europe
+ISL,Iceland,Islândia,ISL,64.74,-18.54,NA,Europe,Europe
+IND,India,Índia,IND,22.7,78.55,NA,Asia,Asia
+IDN,Indonesia,Indonésia,IDN,-2.39,113.15,NA,Asia,Asia
+IRN,Iran,Irã,IRN,31.83,54.32,NA,Asia,Asia
+IRQ,Iraq,Iraque,IRQ,33.03,43.25,NA,Asia,Asia
+IRL,Ireland,Irlanda,IRL,53.12,-8.09,NA,Europe,Europe
+ISR,Israel,Israel,ISR,31.17,34.85,NA,Asia,Asia
+ITA,Italy,Itália,ITA,43.01,12.47,NA,Europe,Europe
+CIV,Ivory Coast,Costa do Marfim,CIV,7.49,-5.52,NA,Africa,Africa
+JAM,Jamaica,Jamaica,JAM,18.14,-77.32,NA,America,Central America
+JPN,Japan,Japão,JPN,36.28,138.27,NA,Asia,Asia
+JOR,Jordan,Jordânia,JOR,31.27,36.35,NA,Asia,Asia
+KAZ,Kazakhstan,Cazaquistão,KAZ,48.1,66.4,NA,Asia,Asia
+KEN,Kenya,Quênia,KEN,0.41,37.82,NA,Africa,Africa
+KIR,Kiribati,Kiribati,KIR,-3.36,-168.81,Yes,Oceania,Oceania
+KWT,Kuwait,Kuwait,KWT,29.41,47.69,Yes,Asia,Asia
+KGZ,Kyrgyzstan,Quirguistão,KGZ,41.48,74.63,NA,Asia,Asia
+LAO,Laos,Laos,LAO,19.75,102.51,NA,Asia,Asia
+LVA,Latvia,Letônia,LVA,56.94,25.62,NA,Europe,Europe
+LBN,Lebanon,Líbano,LBN,34.04,35.94,NA,Asia,Asia
+LSO,Lesotho,Lesoto,LSO,-29.56,28.27,NA,Africa,Africa
+LBR,Liberia,Libéria,LBR,6.39,-9.41,NA,Africa,Africa
+LBY,Libya,Líbia,LBY,27.13,17.49,NA,Africa,Africa
+LIE,Liechtenstein,Liechtenstein,LIE,47.15,9.54,Yes,Europe,Europe
+LTU,Lithuania,Lituânia,LTU,55.47,23.97,NA,Europe,Europe
+LUX,Luxembourg,Luxemburgo,LUX,49.75,6.12,Yes,Europe,Europe
+MAC,Macao,Macau,MAC,22.14,113.56,Yes,Asia,Asia
+MKD,Macedonia,Macedônia do Norte,MKD,41.61,21.71,NA,Europe,Europe
+MDG,Madagascar,Madagáscar,MDG,-20.13,46.21,NA,Africa,Africa
+MWI,Malawi,Malaui,MWI,-13.52,34.13,Yes,Africa,Africa
+MYS,Malaysia,Malásia,MYS,3.63,101.98,NA,Asia,Asia
+MDV,Maldives,Maldivas,MDV,-0.51,73.18,Yes,Asia,Asia
+MLI,Mali,Mali,MLI,10.94,-2.51,NA,Africa,Africa
+MLT,Malta,Malta,MLT,35.89,14.44,Yes,Europe,Europe
+MHL,Marshall Islands,Ilhas Marshall,MHL,7.38,168.72,Yes,Oceania,Oceania
+MRT,Mauritania,Mauritânia,MRT,19.99,-10.14,NA,Africa,Africa
+MUS,Mauritius,Maurício,MUS,-20.28,57.57,Yes,Africa,Africa
+MEX,Mexico,México,MEX,23.48,-102.25,NA,America,North America
+FSM,Micronesia,Micronésia,FSM,7.04,151.65,Yes,Oceania,Oceania
+MDA,Moldova,Moldávia,MDA,47.39,28.51,NA,Europe,Europe
+MCO,Monaco,Mônaco,MCO,43.73,7.42,Yes,Europe,Europe
+MNG,Mongolia,Mongólia,MNG,46.69,103.11,NA,Asia,Asia
+MNE,Montenegro,Montenegro,MNE,42.79,19.24,Yes,Europe,Europe
+MAR,Morocco,Marrocos,MAR,32.08,-6.19,NA,Africa,Africa
+MOZ,Mozambique,Moçambique,MOZ,-17.88,35.46,NA,Africa,Africa
+MMR,Myanmar,Mianmar,MMR,21.55,96.49,NA,Asia,Asia
+NAM,Namibia,Namíbia,NAM,-22.34,17.07,NA,Africa,Africa
+NRU,Nauru,Nauru,NRU,-0.52,166.93,Yes,Oceania,Oceania
+NPL,Nepal,Nepal,NPL,28.05,84.16,NA,Asia,Asia
+NLD,Netherlands,Holanda,NLD,52.15,5.66,NA,Europe,Europe
+NCL,New Caledonia,Nova Caledônia,NCL,-21.33,165.47,NA,Oceania,Oceania
+NZL,New Zealand,Nova Zelândia,NZL,-42.23,172.53,NA,Oceania,Oceania
+NIC,Nicaragua,Nicarágua,NIC,13.06,-84.96,NA,America,Central America
+NER,Niger,Níger,NER,17.43,9.4,NA,Africa,Africa
+NGA,Nigeria,Nigéria,NGA,9.57,8.07,NA,Africa,Africa
+PRK,North Korea,Coreia do Norte,PRK,39.96,126.93,NA,Asia,Asia
+NOR,Norway,Noruega,NOR,61.62,9.38,NA,Europe,Europe
+OMN,Oman,Omã,OMN,21.16,57,NA,Asia,Asia
+PAK,Pakistan,Paquistão,PAK,29.66,69.12,NA,Asia,Asia
+PLW,Palau,Palau,PLW,7.48,134.56,Yes,Oceania,Oceania
+PSE,Palestine,Palestina,PSE,32.03,35.27,Yes,Asia,Asia
+PAN,Panama,Panamá,PAN,8.87,-80.09,NA,America,Central America
+PNG,Papua New Guinea,Papua Nova Guiné,PNG,-5.92,114.09,NA,Oceania,Oceania
+PRY,Paraguay,Paraguai,PRY,-23.09,-58.39,NA,America,South America
+PER,Peru,Peru,PER,-10.51,-75.44,NA,America,South America
+PHL,Philippines,Filipinas,PHL,11.39,123.58,NA,Asia,Asia
+POL,Poland,Polônia,POL,52.31,19.11,NA,Europe,Europe
+PRT,Portugal,Portugal,PRT,39.51,-8.37,NA,Europe,Europe
+PRI,Puerto Rico,Porto Rico,PRI,18.27,-66.52,NA,America,Central America
+QAT,Qatar,Qatar,QAT,25.4,51.17,Yes,Asia,Asia
+ROU,Romania,Romênia,ROU,46.24,24.76,NA,Europe,Europe
+RUS,Russia,Rússia,RUS,61.29,78.92,NA,Europe,Europe
+RWA,Rwanda,Ruanda,RWA,-1.92,29.91,NA,Africa,Africa
+LCA,Saint Lucia,Santa Lúcia,LCA,13.88,-60.97,Yes,America,Central America
+VCT,Saint Vincent,São Vicente,VCT,13.25,-61.18,NA,America,Central America
+WSM,Samoa,Samoa,WSM,-13.65,-172.25,Yes,Oceania,Oceania
+SMR,San Marino,San Marino,SMR,43.93,12.46,Yes,Europe,Europe
+STP,Sao Tome and Principe,São Tomé e Príncipe,STP,0.25,6.61,Yes,Africa,Africa
+SAU,Saudi Arabia,Arábia Saudita,SAU,24.74,44.37,NA,Asia,Asia
+SEN,Senegal,Senegal,SEN,14.65,-14.86,NA,Africa,Africa
+SRB,Serbia,Sérvia,SRB,44.23,20.79,NA,Europe,Europe
+SYC,Seychelles,Seychelles,SYC,-4.67,55.47,Yes,Africa,Africa
+SLE,Sierra Leone,Serra Leoa,SLE,8.41,-11.77,NA,Africa,Africa
+SGP,Singapore,Cingapura,SGP,1.33,103.82,Yes,Asia,Asia
+SVK,Slovakia,Eslováquia,SVK,48.78,19.23,NA,Europe,Europe
+SVN,Slovenia,Eslovênia,SVN,46.01,14.62,NA,Europe,Europe
+SLB,Solomon Islands,Ilhas Salomão,SLB,-9.42,159.77,NA,Oceania,Oceania
+SOM,Somalia,Somália,SOM,2.54,43.86,NA,Africa,Africa
+ZAF,South Africa,África do Sul,ZAF,-29.78,24.83,NA,Africa,Africa
+KOR,South Korea,Coreia do Sul,KOR,36.63,127.97,NA,Asia,Asia
+SSD,South Sudan,Sudão do Sul,SSD,7.06,30.03,NA,Africa,Africa
+ESP,Spain,Espanha,ESP,40147,-3.59,NA,Europe,Europe
+LKA,Sri Lanka,Sri Lanka,LKA,7.48,80.8,NA,Asia,Asia
+SDN,Sudan,Sudão,SDN,15.83,30.26,NA,Africa,Africa
+SUR,Suriname,Suriname,SUR,4.23,-55.96,NA,America,South America
+SWZ,Swaziland,Suazilândia,SWZ,-26.51,31.49,NA,Africa,Africa
+SWE,Sweden,Suécia,SWE,62.08,16.66,NA,Europe,Europe
+CHE,Switzerland,Suíça,CHE,46.91,8.26,NA,Europe,Europe
+SYR,Syria,Síria,SYR,35.23,38.56,NA,Asia,Asia
+TJK,Tajikistan,Tadjiquistão,TJK,38.82,70.55,NA,Asia,Asia
+TZA,Tanzania,Tanzânia,TZA,-6.13,34.91,NA,Africa,Africa
+THA,Thailand,Tailândia,THA,15.03,101.21,NA,Asia,Asia
+TLS,Timor-Leste,Timor-Leste,TLS,-8.78,125.9,Yes,Asia,Asia
+TGO,Togo,Togo,TGO,8.42,1.07,NA,Africa,Africa
+TON,Tonga,Tonga,TON,-21.18,-175.19,Yes,Oceania,Oceania
+TTO,Trinidad,Trindade e Tobago,TTO,10.3,-61.26,Yes,America,Central America
+TUN,Tunisia,Tunísia,TUN,33.97,9.78,NA,Africa,Africa
+TUR,Turkey,Turquia,TUR,39.21,35.51,NA,Europe,Europe
+TKM,Turkmenistan,Turcomenistão,TKM,39.46,58.96,NA,Asia,Asia
+TUV,Tuvalu,Tuvalu,TUV,-8.51,179.11,Yes,Oceania,Oceania
+UGA,Uganda,Uganda,UGA,1.2,32.5,NA,Africa,Africa
+GBR,UK,Reino Unido,GBR,54.11,-1.91,NA,Europe,Europe
+UKR,Ukraine,Ucrânia,UKR,49.18,31.46,NA,Europe,Europe
+ARE,United Arab Emirates,Emirados Árabes,ARE,24.04,54.44,NA,Asia,Asia
+URY,Uruguay,Uruguai,URY,-32.91,-55.97,NA,America,South America
+USA,USA,Estados Unidos,USA,39.5,-101.38,NA,America,North America
+UZB,Uzbekistan,Uzbequistão,UZB,41.67,63.61,NA,Asia,Asia
+VUT,Vanuatu,Vanuatu,VUT,-15.59,167.48,Yes,Oceania,Oceania
+VEN,Venezuela,Venezuela,VEN,7.48,-66.04,NA,America,South America
+VNM,Vietnam,Vietnã,VNM,13.24,108.4,NA,Asia,Asia
+YEM,Yemen,Iêmen,YEM,15.52,47.22,NA,Asia,Asia
+ZMB,Zambia,Zâmbia,ZMB,-14.17,27.84,NA,Africa,Africa
+ZWE,Zimbabwe,Zimbábue,ZWE,-19.42,30.1,NA,Africa,Africa
+ASM,American Samoa,Samoa Americana,ASM,-14.3,-170.71,NA,Oceania,Oceania
+MNP,Northern Mariana Islands,Ilhas Mariana do Norte,MNP,15.09,145.73,NA,Oceania,Oceania
+TWN,Taiwan,Taiwan,TWN,23.65,120.97,NA,Asia,Asia
+FRO,Faroe Islands,Ilhas Faroe,FRO,62.08,-6.9,NA,Europe,Europe
+GIB,Gibraltar,Gibraltar,GIB,36.13,-5.34,NA,Europe,Europe
+GRL,Greenland,Groenlândia,GRL,68.64,-43.28,NA,Europe,North America
+IMN,Isle of Man,Ilha de Man,IMN,54.2,-4.55,NA,Europe,Europe
+XKX,Kosovo,Kosovo,KSV,42.54,20.89,Yes,Europe,Europe
+VGB,British Virgin Islands,Ilhas Virgens Britânicas,VGB,18.42,-64.62,NA,America,Central America
+CYM,Cayman Islands,Ilhas Cayman,CYM,19.31,-81.24,NA,America,Central America
+DMA,Dominica,Dominica,DMA,15.4,-61.34,Yes,America,Central America
+SXM,Sint Maarten,Sint Maarten,SXM,18.03,-63.05,NA,America,Central America
+KNA,Saint Kitts,São Cristóvão e Névis,KNA,17.28,-62.68,NA,America,Central America
+MAF,Saint Martin,Saint Martin,MAF,18.09,-63.04,NA,America,Central America
+TCA,Turks and Caicos Islands,Ilhas Turcas e Caicos,TCA,21.77,-71.76,NA,America,Central America
+VIR,NA,Ilhas Virgens Americanas,VIR,17.72,-64.76,NA,America,Central America
+BMU,Bermuda,Bermuda,BMU,32.3,-64.75,NA,America,Central America
+VAT,Vatican,Vaticano,VAT,41.902841,12.45307,Yes,Europe,Europe
+,French Guiana,Guiana Francesa,,4.075451,-53.156833,NA,America,South America
+,Tokelau,Toquelau,,-9.166667,-172,Yes,Oceania,Oceania

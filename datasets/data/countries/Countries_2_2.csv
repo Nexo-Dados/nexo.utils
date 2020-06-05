@@ -1,0 +1,222 @@
+,WDB,WDB_code,WDB_region,continent5,region,UN,UN2,UN3,pt,pais,Numeric_code,ISO_Name,Alpha-2 code,Alpha-3 code,Independent,ponto_lat,ponto_lon,is_small,parent_state,CountryName,CapitalName,CapitalLatitude,CapitalLongitude,ContinentName
+1,Afghanistan,AFG,South Asia,Asia,Afghanistan,Afghanistan,Afghanistan,Afghanistan,Afeganistão,1,4,Afghanistan,AF,AFG,Yes,34.28,65.68,NA,NA,Afghanistan,Kabul,34.5166666666667,69.183333,Asia
+2,Albania,ALB,Europe & Central Asia,Europe,Albania,Albania,Albania,Albania,Albânia,1,8,Albania,AL,ALB,Yes,41.22,19.98,NA,NA,Albania,Tirana,41.3166666666667,19.816667,Europe
+3,Algeria,DZA,Middle East & North Africa,Africa,Algeria,Algeria,Algeria,Algeria,Argélia,1,12,Algeria,DZ,DZA,Yes,27.92,2.62,NA,NA,Algeria,Algiers,36.75,3.05,Africa
+4,Andorra,AND,Europe & Central Asia,Europe,Andorra,Andorra,Andorra,Andorra,Andorra,1,20,Andorra,AD,AND,Yes,42.54,1.56,Yes,NA,Andorra,Andorra la Vella,42.5,1.516667,Europe
+5,Angola,AGO,Sub-Saharan Africa,Africa,Angola,Angola,Angola,Angola,Angola,1,24,Angola,AO,AGO,Yes,-12.65,17.58,NA,NA,Angola,Luanda,-8.83333333333333,13.216667,Africa
+6,Antigua and Barbuda,ATG,Latin America & Caribbean,America,Antigua,Antigua,Antigua and Barbuda,Antigua and Barbuda,Antígua e Barbuda,1,28,Antigua and Barbuda,AG,ATG,Yes,17.08,-61.8,NA,NA,Antigua and Barbuda,Saint John's,17.1166666666667,-61.85,North America
+7,Argentina,ARG,Latin America & Caribbean,America,Argentina,Argentina,Argentina,Argentina,Argentina,1,32,Argentina,AR,ARG,Yes,-33.69,-65.08,NA,NA,Argentina,Buenos Aires,-34.5833333333333,-58.666667,South America
+8,Armenia,ARM,Europe & Central Asia,Asia,Armenia,Armenia,Armenia,Armenia,Armênia,1,51,Armenia,AM,ARM,Yes,40.35,44.56,NA,NA,Armenia,Yerevan,40.1666666666667,44.5,Europe
+9,Aruba,ABW,Latin America & Caribbean,America,Aruba,Aruba,Aruba,Aruba,Aruba,1,533,Aruba,AW,ABW,No,12.5,-69.96,NA,Netherlands,Aruba,Oranjestad,12.5166666666667,-70.033333,North America
+10,Australia,AUS,East Asia & Pacific,Oceania,Australia,Australia,Australia,Australia,Austrália,1,36,Australia,AU,AUS,Yes,-25.08,134.25,NA,NA,Australia,Canberra,-35.2666666666667,149.133333,Australia
+11,Austria,AUT,Europe & Central Asia,Europe,Austria,Austria,Austria,Austria,Áustria,1,40,Austria,AT,AUT,Yes,47.52,14.12,NA,NA,Austria,Vienna,48.2,16.366667,Europe
+12,Azerbaijan,AZE,Europe & Central Asia,Asia,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijão,1,31,Azerbaijan,AZ,AZE,Yes,40.32,47.99,NA,NA,Azerbaijan,Baku,40.3833333333333,49.866667,Europe
+13,"Bahamas, The",BHS,Latin America & Caribbean,America,Bahamas,Bahamas,Bahamas,Bahamas,Bahamas,1,44,Bahamas,BS,BHS,Yes,24.68,-78.03,Yes,NA,Bahamas,Nassau,25.0833333333333,-77.35,North America
+14,Bahrain,BHR,Middle East & North Africa,Asia,Bahrain,Bahrain,Bahrain,Bahrain,Bahrein,1,48,Bahrain,BH,BHR,Yes,26.04,50.55,Yes,NA,Bahrain,Manama,26.2333333333333,50.566667,Asia
+15,Bangladesh,BGD,South Asia,Asia,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,1,50,Bangladesh,BD,BGD,Yes,24.15,90.23,NA,NA,Bangladesh,Dhaka,23.7166666666667,90.4,Asia
+16,Barbados,BRB,Latin America & Caribbean,America,Barbados,Barbados,Barbados,Barbados,Barbados,1,52,Barbados,BB,BRB,Yes,13.16,-59.55,Yes,NA,Barbados,Bridgetown,13.1,-59.616667,North America
+17,Belarus,BLR,Europe & Central Asia,Europe,Belarus,Belarus,Belarus,Belarus,Bielorússia,1,112,Belarus,BY,BLR,Yes,53.48,28.14,NA,NA,Belarus,Minsk,53.9,27.566667,Europe
+18,Belgium,BEL,Europe & Central Asia,Europe,Belgium,Belgium,Belgium,Belgium,Bélgica,1,56,Belgium,BE,BEL,Yes,50.64,4.67,NA,NA,Belgium,Brussels,50.8333333333333,4.333333,Europe
+19,Belize,BLZ,Latin America & Caribbean,America,Belize,Belize,Belize,Belize,Belize,1,84,Belize,BZ,BLZ,Yes,16.92,-88.71,NA,NA,Belize,Belmopan,17.25,-88.766667,Central America
+20,Benin,BEN,Sub-Saharan Africa,Africa,Benin,Benin,Benin,Benin,Benin,1,204,Benin,BJ,BEN,Yes,9.64,2.35,NA,NA,Benin,Porto-Novo,6.48333333333333,2.616667,Africa
+21,Bhutan,BTN,South Asia,Asia,Bhutan,Bhutan,Bhutan,Bhutan,Butão,1,64,Bhutan,BT,BTN,Yes,27.41,90.45,NA,NA,Bhutan,Thimphu,27.4666666666667,89.633333,Asia
+22,Bolivia,BOL,Latin America & Caribbean,America,Bolivia,Bolivia,Bolivia (Plurinational State of),Bolivia (Plurinational State of),Bolívia,1,68,Bolivia (Plurinational State of),BO,BOL,Yes,-16.73,-64.63,NA,NA,Bolivia,La Paz,-16.5,-68.15,South America
+23,Bosnia and Herzegovina,BIH,Europe & Central Asia,Europe,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bósnia e Herzegovina,1,70,Bosnia and Herzegovina,BA,BIH,Yes,44.32,17.83,NA,NA,Bosnia and Herzegovina,Sarajevo,43.8666666666667,18.416667,Europe
+24,Botswana,BWA,Sub-Saharan Africa,Africa,Botswana,Botswana,Botswana,Botswana,Botsuana,1,72,Botswana,BW,BWA,Yes,-22.2,23.78,NA,NA,Botswana,Gaborone,-24.6333333333333,25.9,Africa
+25,Brazil,BRA,Latin America & Caribbean,America,Brazil,Brazil,Brazil,Brazil,Brasil,1,76,Brazil,BR,BRA,Yes,-8.66,-52.32,NA,NA,Brazil,Brasilia,-15.7833333333333,-47.916667,South America
+26,Brunei Darussalam,BRN,East Asia & Pacific,Asia,Brunei,Brunei,Brunei Darussalam,Brunei Darussalam,Brunei,1,96,Brunei Darussalam,BN,BRN,Yes,4.5,114.61,Yes,NA,Brunei Darussalam,Bandar Seri Begawan,4.88333333333333,114.933333,Asia
+27,Bulgaria,BGR,Europe & Central Asia,Europe,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgária,1,100,Bulgaria,BG,BGR,Yes,42.47,25.18,NA,NA,Bulgaria,Sofia,42.6833333333333,23.316667,Europe
+28,Burkina Faso,BFA,Sub-Saharan Africa,Africa,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,1,854,Burkina Faso,BF,BFA,Yes,12.28,-1.73,NA,NA,Burkina Faso,Ouagadougou,12.3666666666667,-1.516667,Africa
+29,Burundi,BDI,Sub-Saharan Africa,Africa,Burundi,Burundi,Burundi,Burundi,Burundi,1,108,Burundi,BI,BDI,Yes,-3.31,29.92,NA,NA,Burundi,Bujumbura,-3.36666666666667,29.35,Africa
+30,Cabo Verde,CPV,Sub-Saharan Africa,Africa,Cape Verde,Cabo Verde,Cabo Verde,Cabo Verde,Cabo Verde,1,132,Cabo Verde,CV,CPV,Yes,15.24,-23.68,Yes,NA,Cape Verde,Praia,14.9166666666667,-23.516667,Africa
+31,Cambodia,KHM,East Asia & Pacific,Asia,Cambodia,Cambodia,Cambodia,Cambodia,Camboja,1,116,Cambodia,KH,KHM,Yes,12.57,104.98,NA,NA,Cambodia,Phnom Penh,11.55,104.916667,Asia
+32,Cameroon,CMR,Sub-Saharan Africa,Africa,Cameroon,Cameroon,Cameroon,Cameroon,Camarões,1,120,Cameroon,CM,CMR,Yes,5.63,12.74,NA,NA,Cameroon,Yaounde,3.86666666666667,11.516667,Africa
+33,Canada,CAN,North America,America,Canada,Canada,Canada,Canada,Canadá,1,124,Canada,CA,CAN,Yes,54.28,-104.85,NA,NA,Canada,Ottawa,45.4166666666667,-75.7,Central America
+34,Central African Republic,CAF,Sub-Saharan Africa,Africa,Central African Republic,Central African Republic,Central African Republic,Central African Rep.,Rep. Centro Africana,1,140,Central African Republic,CF,CAF,Yes,6.58,20.47,NA,NA,Central African Republic,Bangui,4.36666666666667,18.583333,Africa
+35,Chad,TCD,Sub-Saharan Africa,Africa,Chad,Chad,Chad,Chad,Chade,1,148,Chad,TD,TCD,Yes,15,18.72,NA,NA,Chad,N'Djamena,12.1,15.033333,Africa
+36,Channel Islands,CHI,Europe & Central Asia,Europe,Channel Islands,Channel Islands,Channel Islands,Channel Islands,Ilhas do Canal,1,NA,NA,NA,NA,NA,49.33,-2.32,NA,NA,NA,NA,NA,NA,NA
+37,Chile,CHL,Latin America & Caribbean,America,Chile,Chile,Chile,Chile,Chile,1,152,Chile,CL,CHL,Yes,-28.68,-71.25,NA,NA,Chile,Santiago,-33.45,-70.666667,South America
+38,China,CHN,East Asia & Pacific,Asia,China,China,China,China,China,1,156,China,CN,CHN,Yes,34.88,103.6,NA,NA,China,Beijing,39.9166666666667,116.383333,Asia
+39,Colombia,COL,Latin America & Caribbean,America,Colombia,Colombia,Colombia,Colombia,Colômbia,1,170,Colombia,CO,COL,Yes,3.22,-72.99,NA,NA,Colombia,Bogota,4.6,-74.083333,South America
+40,Comoros,COM,Sub-Saharan Africa,Africa,Comoros,Comoros,Comoros,Comoros,Comores,1,174,Comoros,KM,COM,Yes,-11.67,43.34,Yes,NA,Comoros,Moroni,-11.7,43.233333,Africa
+41,"Congo, Rep.",COG,Sub-Saharan Africa,Africa,Republic of Congo,Congo,Congo,Congo,Rep. do Congo,1,178,Congo,CG,COG,Yes,-0.79,15.7,NA,NA,Republic of Congo,Brazzaville,-4.25,15.283333,Africa
+42,Costa Rica,CRI,Latin America & Caribbean,America,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,1,188,Costa Rica,CR,CRI,Yes,9.93,-83.99,NA,NA,Costa Rica,San Jose,9.93333333333333,-84.083333,Central America
+43,Croatia,HRV,Europe & Central Asia,Europe,Croatia,Croatia,Croatia,Croatia,Croácia,1,191,Croatia,HR,HRV,Yes,45.01,15.13,NA,NA,Croatia,Zagreb,45.8,16,Europe
+44,Cuba,CUB,Latin America & Caribbean,America,Cuba,Cuba,Cuba,Cuba,Cuba,1,192,Cuba,CU,CUB,Yes,21.74,-78.8,NA,NA,Cuba,Havana,23.1166666666667,-82.35,North America
+45,Curaçao,CUW,Latin America & Caribbean,America,Curaçao,Curaçao,Curaçao,Curaçao,Curaçao,1,531,Curaçao,CW,CUW,No,12.17,-68.99,Yes,Netherlands,Curaçao,Willemstad,12.1,-68.916667,North America
+46,Cyprus,CYP,Europe & Central Asia,Europe,Cyprus,Cyprus,Cyprus,Cyprus,Chipre,1,196,Cyprus,CY,CYP,Yes,34.99,33.19,Yes,NA,Cyprus,Nicosia,35.1666666666667,33.366667,Europe
+47,Czech Republic,CZE,Europe & Central Asia,Europe,Czech Republic,Czech Republic,Czechia,Czech Rep.,República Tcheca,1,203,Czechia,CZ,CZE,Yes,49.66,15.31,NA,NA,Czech Republic,Prague,50.0833333333333,14.466667,Europe
+48,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,Africa,Democratic Republic of the Congo,Democratic Republic of Congo,Democratic Republic of the Congo,Dem. Rep. of the Congo,Rep. Dem. do Congo,1,180,"Congo, Democratic Republic of the",CD,COD,Yes,-2.82,23.62,NA,NA,Democratic Republic of the Congo,Kinshasa,-4.31666666666667,15.3,Africa
+49,Denmark,DNK,Europe & Central Asia,Europe,Denmark,Denmark,Denmark,Denmark,Dinamarca,1,208,Denmark,DK,DNK,Yes,55.59,10.11,NA,NA,Denmark,Copenhagen,55.6666666666667,12.583333,Europe
+50,Djibouti,DJI,Middle East & North Africa,Africa,Djibouti,Djibouti,Djibouti,Djibouti,Djibouti,1,262,Djibouti,DJ,DJI,Yes,11.73,42.58,NA,NA,Djibouti,Djibouti,11.5833333333333,43.15,Africa
+51,Dominican Republic,DOM,Latin America & Caribbean,America,Dominican Republic,Dominican Republic,Dominican Republic,Dominican Rep.,Rep. Dominicana,1,214,Dominican Republic,DO,DOM,Yes,18.89,-70.25,NA,NA,Dominican Republic,Santo Domingo,18.4666666666667,-69.9,North America
+52,Ecuador,ECU,Latin America & Caribbean,America,Ecuador,Ecuador,Ecuador,Ecuador,Equador,1,218,Ecuador,EC,ECU,Yes,-1.39,-78.47,NA,NA,Ecuador,Quito,-0.216666666666667,-78.5,South America
+53,"Egypt, Arab Rep.",EGY,Middle East & North Africa,Africa,Egypt,Egypt,Egypt,Egypt,Egito,1,818,Egypt,EG,EGY,Yes,26.68,29.92,NA,NA,Egypt,Cairo,30.05,31.25,Africa
+54,El Salvador,SLV,Latin America & Caribbean,America,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,1,222,El Salvador,SV,SLV,Yes,13.69,-88.85,NA,NA,El Salvador,San Salvador,13.7,-89.2,Central America
+55,Equatorial Guinea,GNQ,Sub-Saharan Africa,Africa,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Guiné Equatorial,1,226,Equatorial Guinea,GQ,GNQ,Yes,1.55,10.48,NA,NA,Equatorial Guinea,Malabo,3.75,8.783333,Africa
+56,Eritrea,ERI,Sub-Saharan Africa,Africa,Eritrea,Eritrea,Eritrea,Eritrea,Eritréia,1,232,Eritrea,ER,ERI,Yes,15.48,38.92,NA,NA,Eritrea,Asmara,15.3333333333333,38.933333,Africa
+57,Estonia,EST,Europe & Central Asia,Europe,Estonia,Estonia,Estonia,Estonia,Estônia,1,233,Estonia,EE,EST,Yes,58.68,25.78,NA,NA,Estonia,Tallinn,59.4333333333333,24.716667,Europe
+58,Ethiopia,ETH,Sub-Saharan Africa,Africa,Ethiopia,Ethiopia,Ethiopia,Ethiopia,Etiópia,1,231,Ethiopia,ET,ETH,Yes,8.56,39.54,NA,NA,Ethiopia,Addis Ababa,9.03333333333333,38.7,Africa
+59,Fiji,FJI,East Asia & Pacific,Oceania,Fiji,Fiji,Fiji,Fiji,Fiji,1,242,Fiji,FJ,FJI,Yes,-17.82,177.97,Yes,NA,Fiji,Suva,-18.1333333333333,178.416667,Australia
+60,Finland,FIN,Europe & Central Asia,Europe,Finland,Finland,Finland,Finland,Finlândia,1,246,Finland,FI,FIN,Yes,61.92,25.76,NA,NA,Finland,Helsinki,60.1666666666667,24.933333,Europe
+61,France,FRA,Europe & Central Asia,Europe,France,France,France,France,França,1,250,France,FR,FRA,Yes,46.76,2.47,NA,NA,France,Paris,48.8666666666667,2.333333,Europe
+62,French Polynesia,PYF,East Asia & Pacific,Oceania,French Polynesia,French Polynesia,French Polynesia,French Polynesia,Polinésia Francesa,1,258,French Polynesia,PF,PYF,No,-17.64,-149.45,Yes,France,French Polynesia,Papeete,-17.5333333333333,-149.566667,Australia
+63,Gabon,GAB,Sub-Saharan Africa,Africa,Gabon,Gabon,Gabon,Gabon,Gabão,1,266,Gabon,GA,GAB,Yes,-0.6,11.77,NA,NA,Gabon,Libreville,0.383333333333333,9.45,Africa
+64,"Gambia, The",GMB,Sub-Saharan Africa,Africa,Gambia,Gambia,Gambia,Gambia,Gâmbia,1,270,Gambia,GM,GMB,Yes,13.49,-15.51,Yes,NA,The Gambia,Banjul,13.45,-16.566667,Africa
+65,Georgia,GEO,Europe & Central Asia,Asia,Georgia,Georgia,Georgia,Georgia,Geórgia,1,268,Georgia,GE,GEO,Yes,42.08,43.47,NA,NA,Georgia,Tbilisi,41.6833333333333,44.833333,Europe
+66,Germany,DEU,Europe & Central Asia,Europe,Germany,Germany,Germany,Germany,Alemanha,1,276,Germany,DE,DEU,Yes,50.97,10.4,NA,NA,Germany,Berlin,52.5166666666667,13.4,Europe
+67,Ghana,GHA,Sub-Saharan Africa,Africa,Ghana,Ghana,Ghana,Ghana,Gana,1,288,Ghana,GH,GHA,Yes,7.93,-1.19,NA,NA,Ghana,Accra,5.55,-0.216667,Africa
+68,Greece,GRC,Europe & Central Asia,Europe,Greece,Greece,Greece,Greece,Grécia,1,300,Greece,GR,GRC,Yes,39.19,22.81,NA,NA,Greece,Athens,37.9833333333333,23.733333,Europe
+69,Grenada,GRD,Latin America & Caribbean,America,Grenada,Grenada,Grenada,Grenada,Granada,1,308,Grenada,GD,GRD,Yes,12.12,-61.68,Yes,NA,Grenada,Saint George's,12.05,-61.75,North America
+70,Guam,GUM,East Asia & Pacific,Oceania,Guam,Guam,Guam,Guam,Guam,1,316,Guam,GU,GUM,No,13.43,144.75,Yes,USA,Guam,Hagatna,13.4666666666667,144.733333,Australia
+71,Guatemala,GTM,Latin America & Caribbean,America,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,1,320,Guatemala,GT,GTM,Yes,15.52,-90.27,NA,NA,Guatemala,Guatemala City,14.6166666666667,-90.516667,Central America
+72,Guinea,GIN,Sub-Saharan Africa,Africa,Guinea,Guinea,Guinea,Guinea,Guiné,1,324,Guinea,GN,GIN,Yes,10.6,-11.19,NA,NA,Guinea,Conakry,9.5,-13.7,Africa
+73,Guinea-Bissau,GNB,Sub-Saharan Africa,Africa,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guiné-Bissau,1,624,Guinea-Bissau,GW,GNB,Yes,12,-14.92,NA,NA,Guinea-Bissau,Bissau,11.85,-15.583333,Africa
+74,Guyana,GUY,Latin America & Caribbean,America,Guyana,Guyana,Guyana,Guyana,Guiana,1,328,Guyana,GY,GUY,Yes,4.99,-58.95,NA,NA,Guyana,Georgetown,6.8,-58.15,South America
+75,Haiti,HTI,Latin America & Caribbean,America,Haiti,Haiti,Haiti,Haiti,Haiti,1,332,Haiti,HT,HTI,Yes,18.99,-72.79,NA,NA,Haiti,Port-au-Prince,18.5333333333333,-72.333333,North America
+76,Honduras,HND,Latin America & Caribbean,America,Honduras,Honduras,Honduras,Honduras,Honduras,1,340,Honduras,HN,HND,Yes,14.83,-86.86,NA,NA,Honduras,Tegucigalpa,14.1,-87.216667,Central America
+77,"Hong Kong SAR, China",HKG,East Asia & Pacific,Asia,Hong Kong,Hong Kong,"China, Hong Kong SAR","China, Hong Kong SAR",Hong Kong,1,344,Hong Kong,HK,HKG,No,22.35,114.13,Yes,NA,Hong Kong,N/A,0,0,Asia
+78,Hungary,HUN,Europe & Central Asia,Europe,Hungary,Hungary,Hungary,Hungary,Hungria,1,348,Hungary,HU,HUN,Yes,46.97,19.41,NA,NA,Hungary,Budapest,47.5,19.083333,Europe
+79,Iceland,ISL,Europe & Central Asia,Europe,Iceland,Iceland,Iceland,Iceland,Islândia,1,352,Iceland,IS,ISL,Yes,64.74,-18.54,NA,NA,Iceland,Reykjavik,64.15,-21.95,Europe
+80,India,IND,South Asia,Asia,India,India,India,India,Índia,1,356,India,IN,IND,Yes,22.7,78.55,NA,NA,India,New Delhi,28.6,77.2,Asia
+81,Indonesia,IDN,East Asia & Pacific,Asia,Indonesia,Indonesia,Indonesia,Indonesia,Indonésia,1,360,Indonesia,ID,IDN,Yes,-2.39,113.15,NA,NA,Indonesia,Jakarta,-6.16666666666667,106.816667,Asia
+82,"Iran, Islamic Rep.",IRN,Middle East & North Africa,Asia,Iran,Iran,Iran (Islamic Republic of),Iran (Islamic Rep. of),Irã,1,364,Iran (Islamic Republic of),IR,IRN,Yes,31.83,54.32,NA,NA,Iran,Tehran,35.7,51.416667,Asia
+83,Iraq,IRQ,Middle East & North Africa,Asia,Iraq,Iraq,Iraq,Iraq,Iraque,1,368,Iraq,IQ,IRQ,Yes,33.03,43.25,NA,NA,Iraq,Baghdad,33.3333333333333,44.4,Asia
+84,Ireland,IRL,Europe & Central Asia,Europe,Ireland,Ireland,Ireland,Ireland,Irlanda,1,372,Ireland,IE,IRL,Yes,53.12,-8.09,NA,NA,Ireland,Dublin,53.3166666666667,-6.233333,Europe
+85,Israel,ISR,Middle East & North Africa,Asia,Israel,Israel,Israel,Israel,Israel,1,376,Israel,IL,ISR,Yes,31.17,34.85,NA,NA,Israel,Jerusalem,31.7666666666667,35.233333,Asia
+86,Italy,ITA,Europe & Central Asia,Europe,Italy,Italy,Italy,Italy,Itália,1,380,Italy,IT,ITA,Yes,43.01,12.47,NA,NA,Italy,Rome,41.9,12.483333,Europe
+87,Côte d'Ivoire,CIV,Sub-Saharan Africa,Africa,Ivory Coast,Ivory Coast,Côte d'Ivoire,Côte d'Ivoire,Costa do Marfim,1,384,Côte d'Ivoire,CI,CIV,Yes,7.49,-5.52,NA,NA,Cote d'Ivoire,Yamoussoukro,6.81666666666667,-5.266667,Africa
+88,Jamaica,JAM,Latin America & Caribbean,America,Jamaica,Jamaica,Jamaica,Jamaica,Jamaica,1,388,Jamaica,JM,JAM,Yes,18.14,-77.32,NA,NA,Jamaica,Kingston,18,-76.8,North America
+89,Japan,JPN,East Asia & Pacific,Asia,Japan,Japan,Japan,Japan,Japão,1,392,Japan,JP,JPN,Yes,36.28,138.27,NA,NA,Japan,Tokyo,35.6833333333333,139.75,Asia
+90,Jordan,JOR,Middle East & North Africa,Asia,Jordan,Jordan,Jordan,Jordan,Jordânia,1,400,Jordan,JO,JOR,Yes,31.27,36.35,NA,NA,Jordan,Amman,31.95,35.933333,Asia
+91,Kazakhstan,KAZ,Europe & Central Asia,Asia,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,Cazaquistão,1,398,Kazakhstan,KZ,KAZ,Yes,48.1,66.4,NA,NA,Kazakhstan,Astana,51.1666666666667,71.416667,Asia
+92,Kenya,KEN,Sub-Saharan Africa,Africa,Kenya,Kenya,Kenya,Kenya,Quênia,1,404,Kenya,KE,KEN,Yes,0.41,37.82,NA,NA,Kenya,Nairobi,-1.28333333333333,36.816667,Africa
+93,Kiribati,KIR,East Asia & Pacific,Oceania,Kiribati,Kiribati,Kiribati,Kiribati,Kiribati,1,296,Kiribati,KI,KIR,Yes,-3.36,-168.81,Yes,NA,Kiribati,Tarawa,-0.883333333333333,169.533333,Australia
+94,Kuwait,KWT,Middle East & North Africa,Asia,Kuwait,Kuwait,Kuwait,Kuwait,Kuwait,1,414,Kuwait,KW,KWT,Yes,29.41,47.69,Yes,NA,Kuwait,Kuwait City,29.3666666666667,47.966667,Asia
+95,Kyrgyz Republic,KGZ,Europe & Central Asia,Asia,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Quirguistão,1,417,Kyrgyzstan,KG,KGZ,Yes,41.48,74.63,NA,NA,Kyrgyzstan,Bishkek,42.8666666666667,74.6,Asia
+96,Lao PDR,LAO,East Asia & Pacific,Asia,Laos,Laos,Lao People's Democratic Republic,Lao People's Dem. Rep.,Laos,1,418,Lao People's Democratic Republic,LA,LAO,Yes,19.75,102.51,NA,NA,Laos,Vientiane,17.9666666666667,102.6,Asia
+97,Latvia,LVA,Europe & Central Asia,Europe,Latvia,Latvia,Latvia,Latvia,Letônia,1,428,Latvia,LV,LVA,Yes,56.94,25.62,NA,NA,Latvia,Riga,56.95,24.1,Europe
+98,Lebanon,LBN,Middle East & North Africa,Asia,Lebanon,Lebanon,Lebanon,Lebanon,Líbano,1,422,Lebanon,LB,LBN,Yes,34.04,35.94,Yes,NA,Lebanon,Beirut,33.8666666666667,35.5,Asia
+99,Lesotho,LSO,Sub-Saharan Africa,Africa,Lesotho,Lesotho,Lesotho,Lesotho,Lesoto,1,426,Lesotho,LS,LSO,Yes,-29.56,28.27,NA,NA,Lesotho,Maseru,-29.3166666666667,27.483333,Africa
+100,Liberia,LBR,Sub-Saharan Africa,Africa,Liberia,Liberia,Liberia,Liberia,Libéria,1,430,Liberia,LR,LBR,Yes,6.39,-9.41,NA,NA,Liberia,Monrovia,6.3,-10.8,Africa
+101,Libya,LBY,Middle East & North Africa,Africa,Libya,Libya,Libya,Libya,Líbia,1,434,Libya,LY,LBY,Yes,27.13,17.49,NA,NA,Libya,Tripoli,32.8833333333333,13.166667,Africa
+102,Liechtenstein,LIE,Europe & Central Asia,Europe,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,1,438,Liechtenstein,LI,LIE,Yes,47.15,9.54,Yes,NA,Liechtenstein,Vaduz,47.1333333333333,9.516667,Europe
+103,Lithuania,LTU,Europe & Central Asia,Europe,Lithuania,Lithuania,Lithuania,Lithuania,Lituânia,1,440,Lithuania,LT,LTU,Yes,55.47,23.97,NA,NA,Lithuania,Vilnius,54.6833333333333,25.316667,Europe
+104,Luxembourg,LUX,Europe & Central Asia,Europe,Luxembourg,Luxembourg,Luxembourg,Luxembourg,Luxemburgo,1,442,Luxembourg,LU,LUX,Yes,49.75,6.12,Yes,NA,Luxembourg,Luxembourg,49.6,6.116667,Europe
+105,"Macao SAR, China",MAC,East Asia & Pacific,Asia,Macao,Macao,"China, Macao SAR","China, Macao SAR",Macau,1,446,Macao,MO,MAC,No,22.14,113.56,Yes,NA,Macau,N/A,0,0,Asia
+106,"Macedonia, FYR",MKD,Europe & Central Asia,Europe,Macedonia,Macedonia,TFYR Macedonia,The former Yugoslav Republic of Macedonia,Macedônia,1,807,"Macedonia, the former Yugoslav Republic of",MK,MKD,Yes,41.61,21.71,NA,NA,Macedonia,Skopje,42,21.433333,Europe
+107,Madagascar,MDG,Sub-Saharan Africa,Africa,Madagascar,Madagascar,Madagascar,Madagascar,Madagáscar,1,450,Madagascar,MG,MDG,Yes,-20.13,46.21,NA,NA,Madagascar,Antananarivo,-18.9166666666667,47.516667,Africa
+108,Malawi,MWI,Sub-Saharan Africa,Africa,Malawi,Malawi,Malawi,Malawi,Malaui,1,454,Malawi,MW,MWI,Yes,-13.52,34.13,Yes,NA,Malawi,Lilongwe,-13.9666666666667,33.783333,Africa
+109,Malaysia,MYS,East Asia & Pacific,Asia,Malaysia,Malaysia,Malaysia,Malaysia,Malásia,1,458,Malaysia,MY,MYS,Yes,3.63,101.98,NA,NA,Malaysia,Kuala Lumpur,3.16666666666667,101.7,Asia
+110,Maldives,MDV,South Asia,Asia,Maldives,Maldives,Maldives,Maldives,Maldivas,1,462,Maldives,MV,MDV,Yes,-0.51,73.18,Yes,NA,Maldives,Male,4.16666666666667,73.5,Asia
+111,Mali,MLI,Sub-Saharan Africa,Africa,Mali,Mali,Mali,Mali,Mali,1,466,Mali,ML,MLI,Yes,10.94,-2.51,NA,NA,Mali,Bamako,12.65,-8,Africa
+112,Malta,MLT,Middle East & North Africa,Europe,Malta,Malta,Malta,Malta,Malta,1,470,Malta,MT,MLT,Yes,35.89,14.44,Yes,NA,Malta,Valletta,35.8833333333333,14.5,Europe
+113,Marshall Islands,MHL,East Asia & Pacific,Oceania,Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,Ilhas Marshall,1,584,Marshall Islands,MH,MHL,Yes,7.38,168.72,Yes,NA,Marshall Islands,Majuro,7.1,171.383333,Australia
+114,Mauritania,MRT,Sub-Saharan Africa,Africa,Mauritania,Mauritania,Mauritania,Mauritania,Mauritânia,1,478,Mauritania,MR,MRT,Yes,19.99,-10.14,NA,NA,Mauritania,Nouakchott,18.0666666666667,-15.966667,Africa
+115,Mauritius,MUS,Sub-Saharan Africa,Africa,Mauritius,Mauritius,Mauritius,Mauritius,Maurícia,1,480,Mauritius,MU,MUS,Yes,-20.28,57.57,Yes,NA,Mauritius,Port Louis,-20.15,57.483333,Africa
+116,Mexico,MEX,Latin America & Caribbean,America,Mexico,Mexico,Mexico,Mexico,México,1,484,Mexico,MX,MEX,Yes,23.48,-102.25,NA,NA,Mexico,Mexico City,19.4333333333333,-99.133333,Central America
+117,"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Oceania,Micronesia,Micronesia,Micronesia,Micronesia (Federated States of),Micronésia,1,583,Micronesia (Federated States of),FM,FSM,Yes,7.04,151.65,Yes,NA,Federated States of Micronesia,Palikir,6.91666666666667,158.15,Australia
+118,Moldova,MDA,Europe & Central Asia,Europe,Moldova,Moldova,Republic of Moldova,Rep. of Moldova,Moldávia,1,498,"Moldova, Republic of",MD,MDA,Yes,47.39,28.51,NA,NA,Moldova,Chisinau,47,28.85,Europe
+119,Monaco,MCO,Europe & Central Asia,Europe,Monaco,Monaco,Monaco,Monaco,Mônaco,1,492,Monaco,MC,MCO,Yes,43.73,7.42,Yes,NA,Monaco,Monaco,43.7333333333333,7.416667,Europe
+120,Mongolia,MNG,East Asia & Pacific,Asia,Mongolia,Mongolia,Mongolia,Mongolia,Mongólia,1,496,Mongolia,MN,MNG,Yes,46.69,103.11,NA,NA,Mongolia,Ulaanbaatar,47.9166666666667,106.916667,Asia
+121,Montenegro,MNE,Europe & Central Asia,Europe,Montenegro,Montenegro,Montenegro,Montenegro,Montenegro,1,499,Montenegro,ME,MNE,Yes,42.79,19.24,Yes,NA,Montenegro,Podgorica,42.4333333333333,19.266667,Europe
+122,Morocco,MAR,Middle East & North Africa,Africa,Morocco,Morocco,Morocco,Morocco,Marrocos,1,504,Morocco,MA,MAR,Yes,32.08,-6.19,NA,NA,Morocco,Rabat,34.0166666666667,-6.816667,Africa
+123,Mozambique,MOZ,Sub-Saharan Africa,Africa,Mozambique,Mozambique,Mozambique,Mozambique,Moçambique,1,508,Mozambique,MZ,MOZ,Yes,-17.88,35.46,NA,NA,Mozambique,Maputo,-25.95,32.583333,Africa
+124,Myanmar,MMR,East Asia & Pacific,Asia,Myanmar,Myanmar,Myanmar,Myanmar,Mianmar,1,104,Myanmar,MM,MMR,Yes,21.55,96.49,NA,NA,Myanmar,Rangoon,16.8,96.15,Asia
+125,Namibia,NAM,Sub-Saharan Africa,Africa,Namibia,Namibia,Namibia,Namibia,Namíbia,1,516,Namibia,NA,NAM,Yes,-22.34,17.07,NA,NA,NA,NA,NA,NA,NA
+126,Nauru,NRU,East Asia & Pacific,Oceania,Nauru,Nauru,Nauru,Nauru,Nauru,1,520,Nauru,NR,NRU,Yes,-0.52,166.93,Yes,NA,Nauru,Yaren,-0.5477,166.920867,Australia
+127,Nepal,NPL,South Asia,Asia,Nepal,Nepal,Nepal,Nepal,Nepal,1,524,Nepal,NP,NPL,Yes,28.05,84.16,NA,NA,Nepal,Kathmandu,27.7166666666667,85.316667,Asia
+128,Netherlands,NLD,Europe & Central Asia,Europe,Netherlands,Netherlands,Netherlands,Netherlands,Holanda,1,528,Netherlands,NL,NLD,Yes,52.15,5.66,NA,NA,Netherlands,Amsterdam,52.35,4.916667,Europe
+129,New Caledonia,NCL,East Asia & Pacific,Oceania,New Caledonia,New Caledonia,New Caledonia,New Caledonia,Nova Caledônia,1,540,New Caledonia,NC,NCL,No,-21.33,165.47,NA,France,New Caledonia,Noumea,-22.2666666666667,166.45,Australia
+130,New Zealand,NZL,East Asia & Pacific,Oceania,New Zealand,New Zealand,New Zealand,New Zealand,Nova Zelândia,1,554,New Zealand,NZ,NZL,Yes,-42.23,172.53,NA,NA,New Zealand,Wellington,-41.3,174.783333,Australia
+131,Nicaragua,NIC,Latin America & Caribbean,America,Nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicarágua,1,558,Nicaragua,NI,NIC,Yes,13.06,-84.96,NA,NA,Nicaragua,Managua,12.1333333333333,-86.25,Central America
+132,Niger,NER,Sub-Saharan Africa,Africa,Niger,Niger,Niger,Niger,Níger,1,562,Niger,NE,NER,Yes,17.43,9.4,NA,NA,Niger,Niamey,13.5166666666667,2.116667,Africa
+133,Nigeria,NGA,Sub-Saharan Africa,Africa,Nigeria,Nigeria,Nigeria,Nigeria,Nigéria,1,566,Nigeria,NG,NGA,Yes,9.57,8.07,NA,NA,Nigeria,Abuja,9.08333333333333,7.533333,Africa
+134,"Korea, Dem. People's Rep.",PRK,East Asia & Pacific,Asia,North Korea,North Korea,Dem. People's Republic of Korea,Dem. People's Rep. of Korea,Coreia do Norte,1,408,Korea (Democratic People's Republic of),KP,PRK,Yes,39.96,126.93,NA,NA,North Korea,Pyongyang,39.0166666666667,125.75,Asia
+135,Norway,NOR,Europe & Central Asia,Europe,Norway,Norway,Norway,Norway,Noruega,1,578,Norway,NO,NOR,Yes,61.62,9.38,NA,NA,Norway,Oslo,59.9166666666667,10.75,Europe
+136,Oman,OMN,Middle East & North Africa,Asia,Oman,Oman,Oman,Oman,Omã,1,512,Oman,OM,OMN,Yes,21.16,57,NA,NA,Oman,Muscat,23.6166666666667,58.583333,Asia
+137,Pakistan,PAK,South Asia,Asia,Pakistan,Pakistan,Pakistan,Pakistan,Paquistão,1,586,Pakistan,PK,PAK,Yes,29.66,69.12,NA,NA,Pakistan,Islamabad,33.6833333333333,73.05,Asia
+138,Palau,PLW,East Asia & Pacific,Oceania,Palau,Palau,Palau,Palau,Palau,1,585,Palau,PW,PLW,Yes,7.48,134.56,Yes,NA,Palau,Melekeok,7.48333333333333,134.633333,Australia
+139,West Bank and Gaza,PSE,Middle East & North Africa,Asia,Palestine,Palestine,State of Palestine,Palestinian,Palestina,1,275,"Palestine, State of",PS,PSE,No,32.03,35.27,Yes,NA,Palestine,Jerusalem,31.7666666666667,35.233333,Asia
+140,Panama,PAN,Latin America & Caribbean,America,Panama,Panama,Panama,Panama,Panamá,1,591,Panama,PA,PAN,Yes,8.87,-80.09,NA,NA,Panama,Panama City,8.96666666666667,-79.533333,Central America
+141,Papua New Guinea,PNG,East Asia & Pacific,Oceania,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua Nova Guiné,1,598,Papua New Guinea,PG,PNG,Yes,-5.92,114.09,NA,NA,Papua New Guinea,Port Moresby,-9.45,147.183333,Australia
+142,Paraguay,PRY,Latin America & Caribbean,America,Paraguay,Paraguay,Paraguay,Paraguay,Paraguai,1,600,Paraguay,PY,PRY,Yes,-23.09,-58.39,NA,NA,Paraguay,Asuncion,-25.2666666666667,-57.666667,South America
+143,Peru,PER,Latin America & Caribbean,America,Peru,Peru,Peru,Peru,Peru,1,604,Peru,PE,PER,Yes,-10.51,-75.44,NA,NA,Peru,Lima,-12.05,-77.05,South America
+144,Philippines,PHL,East Asia & Pacific,Asia,Philippines,Philippines,Philippines,Philippines,Filipinas,1,608,Philippines,PH,PHL,Yes,11.39,123.58,NA,NA,Philippines,Manila,14.6,120.966667,Asia
+145,Poland,POL,Europe & Central Asia,Europe,Poland,Poland,Poland,Poland,Polônia,1,616,Poland,PL,POL,Yes,52.31,19.11,NA,NA,Poland,Warsaw,52.25,21,Europe
+146,Portugal,PRT,Europe & Central Asia,Europe,Portugal,Portugal,Portugal,Portugal,Portugal,1,620,Portugal,PT,PRT,Yes,39.51,-8.37,NA,NA,Portugal,Lisbon,38.7166666666667,-9.133333,Europe
+147,Puerto Rico,PRI,Latin America & Caribbean,America,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,Porto Rico,1,630,Puerto Rico,PR,PRI,No,18.27,-66.52,NA,USA,Puerto Rico,San Juan,18.4666666666667,-66.116667,North America
+148,Qatar,QAT,Middle East & North Africa,Asia,Qatar,Qatar,Qatar,Qatar,Catar,1,634,Qatar,QA,QAT,Yes,25.4,51.17,Yes,NA,Qatar,Doha,25.2833333333333,51.533333,Asia
+149,Romania,ROU,Europe & Central Asia,Europe,Romania,Romania,Romania,Romania,Romênia,1,642,Romania,RO,ROU,Yes,46.24,24.76,NA,NA,Romania,Bucharest,44.4333333333333,26.1,Europe
+150,Russian Federation,RUS,Europe & Central Asia,Europe,Russia,Russia,Russian Federation,Russian Federation,Rússia,1,643,Russian Federation,RU,RUS,Yes,61.29,78.92,NA,NA,Russia,Moscow,55.75,37.6,Europe
+151,Rwanda,RWA,Sub-Saharan Africa,Africa,Rwanda,Rwanda,Rwanda,Rwanda,Ruanda,1,646,Rwanda,RW,RWA,Yes,-1.92,29.91,NA,NA,Rwanda,Kigali,-1.95,30.05,Africa
+152,St. Lucia,LCA,Latin America & Caribbean,America,Saint Lucia,Saint Lucia,Saint Lucia,Saint Lucia,Santa Lúcia,1,662,Saint Lucia,LC,LCA,Yes,13.88,-60.97,Yes,NA,Saint Lucia,Castries,14,-61,North America
+153,St. Vincent and the Grenadines,VCT,Latin America & Caribbean,America,Saint Vincent,Saint Vincent,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,São Vicente,1,670,Saint Vincent and the Grenadines,VC,VCT,Yes,13.25,-61.18,NA,NA,Saint Vincent and the Grenadines,Kingstown,13.1333333333333,-61.216667,Central America
+154,Samoa,WSM,East Asia & Pacific,Oceania,Samoa,Samoa,Samoa,Samoa,Samoa,1,882,Samoa,WS,WSM,Yes,-13.65,-172.25,Yes,NA,Samoa,Apia,-13.8166666666667,-171.766667,Australia
+155,San Marino,SMR,Europe & Central Asia,Europe,San Marino,San Marino,San Marino,San Marino,San Marino,1,674,San Marino,SM,SMR,Yes,43.93,12.46,Yes,NA,San Marino,San Marino,43.9333333333333,12.416667,Europe
+156,São Tomé and Principe,STP,Sub-Saharan Africa,Africa,Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,São Tomé and Príncipe,1,678,Sao Tome and Principe,ST,STP,Yes,0.25,6.61,Yes,NA,Sao Tome and Principe,Sao Tome,0.333333333333333,6.733333,Africa
+157,Saudi Arabia,SAU,Middle East & North Africa,Asia,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,Arábia Saudita,1,682,Saudi Arabia,SA,SAU,Yes,24.74,44.37,NA,NA,Saudi Arabia,Riyadh,24.65,46.7,Asia
+158,Senegal,SEN,Sub-Saharan Africa,Africa,Senegal,Senegal,Senegal,Senegal,Senegal,1,686,Senegal,SN,SEN,Yes,14.65,-14.86,NA,NA,Senegal,Dakar,14.7333333333333,-17.633333,Africa
+159,Serbia,SRB,Europe & Central Asia,Europe,Serbia,Serbia,Serbia,Serbia,Sérvia,1,688,Serbia,RS,SRB,Yes,44.23,20.79,NA,NA,Serbia,Belgrade,44.8333333333333,20.5,Europe
+160,Seychelles,SYC,Sub-Saharan Africa,Africa,Seychelles,Seychelles,Seychelles,Seychelles,Seychelles,1,690,Seychelles,SC,SYC,Yes,-4.67,55.47,Yes,NA,Seychelles,Victoria,-4.61666666666667,55.45,Africa
+161,Sierra Leone,SLE,Sub-Saharan Africa,Africa,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,Serra Leoa,1,694,Sierra Leone,SL,SLE,Yes,8.41,-11.77,NA,NA,Sierra Leone,Freetown,8.48333333333333,-13.233333,Africa
+162,Singapore,SGP,East Asia & Pacific,Asia,Singapore,Singapore,Singapore,Singapore,Cingapura,1,702,Singapore,SG,SGP,Yes,1.33,103.82,Yes,NA,Singapore,Singapore,1.28333333333333,103.85,Asia
+163,Slovak Republic,SVK,Europe & Central Asia,Europe,Slovakia,Slovakia,Slovakia,Slovakia,Eslováquia,1,703,Slovakia,SK,SVK,Yes,48.78,19.23,NA,NA,Slovakia,Bratislava,48.15,17.116667,Europe
+164,Slovenia,SVN,Europe & Central Asia,Europe,Slovenia,Slovenia,Slovenia,Slovenia,Eslovênia,1,705,Slovenia,SI,SVN,Yes,46.01,14.62,NA,NA,Slovenia,Ljubljana,46.05,14.516667,Europe
+165,Solomon Islands,SLB,East Asia & Pacific,Oceania,Solomon Islands,Solomon Islands,Solomon Islands,Solomon Islands,Ilhas Salomão,1,90,Solomon Islands,SB,SLB,Yes,-9.42,159.77,NA,NA,Solomon Islands,Honiara,-9.43333333333333,159.95,Australia
+166,Somalia,SOM,Sub-Saharan Africa,Africa,Somalia,Somalia,Somalia,Somalia,Somália,1,706,Somalia,SO,SOM,Yes,2.54,43.86,NA,NA,Somalia,Mogadishu,2.06666666666667,45.333333,Africa
+167,South Africa,ZAF,Sub-Saharan Africa,Africa,South Africa,South Africa,South Africa,South Africa,África do Sul,1,710,South Africa,ZA,ZAF,Yes,-29.78,24.83,NA,NA,South Africa,Pretoria,-25.7,28.216667,Africa
+168,"Korea, Rep.",KOR,East Asia & Pacific,Asia,South Korea,South Korea,Republic of Korea,Rep. of Korea,Coreia do Sul,1,410,"Korea, Republic of",KR,KOR,Yes,36.63,127.97,NA,NA,South Korea,Seoul,37.55,126.983333,Asia
+169,South Sudan,SSD,Sub-Saharan Africa,Africa,South Sudan,South Sudan,South Sudan,South Sudan,Sudão do Sul,1,728,South Sudan,SS,SSD,Yes,7.06,30.03,NA,NA,South Sudan,Juba,4.85,31.616667,Africa
+170,Spain,ESP,Europe & Central Asia,Europe,Spain,Spain,Spain,Spain,Espanha,1,724,Spain,ES,ESP,Yes,40.147,-3.59,NA,NA,Spain,Madrid,40.4,-3.683333,Europe
+171,Sri Lanka,LKA,South Asia,Asia,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,1,144,Sri Lanka,LK,LKA,Yes,7.48,80.8,NA,NA,Sri Lanka,Colombo,6.91666666666667,79.833333,Asia
+172,Sudan,SDN,Sub-Saharan Africa,Africa,Sudan,Sudan,Sudan,Sudan,Sudão,1,729,Sudan,SD,SDN,Yes,15.83,30.26,NA,NA,Sudan,Khartoum,15.6,32.533333,Africa
+173,Suriname,SUR,Latin America & Caribbean,America,Suriname,Suriname,Suriname,Suriname,Suriname,1,740,Suriname,SR,SUR,Yes,4.23,-55.96,NA,NA,Suriname,Paramaribo,5.83333333333333,-55.166667,South America
+174,Swaziland,SWZ,Sub-Saharan Africa,Africa,Swaziland,Swaziland,Swaziland,Swaziland,Suazilândia,1,748,Eswatini,SZ,SWZ,Yes,-26.51,31.49,NA,NA,Swaziland,Mbabane,-26.3166666666667,31.133333,Africa
+175,Sweden,SWE,Europe & Central Asia,Europe,Sweden,Sweden,Sweden,Sweden,Suécia,1,752,Sweden,SE,SWE,Yes,62.08,16.66,NA,NA,Sweden,Stockholm,59.3333333333333,18.05,Europe
+176,Switzerland,CHE,Europe & Central Asia,Europe,Switzerland,Switzerland,Switzerland,Switzerland,Suíça,1,756,Switzerland,CH,CHE,Yes,46.91,8.26,NA,NA,Switzerland,Bern,46.9166666666667,7.466667,Europe
+177,Syrian Arab Republic,SYR,Middle East & North Africa,Asia,Syria,Syria,Syrian Arab Republic,Syrian Arab Rep.,Síria,1,760,Syrian Arab Republic,SY,SYR,Yes,35.23,38.56,NA,NA,Syria,Damascus,33.5,36.3,Asia
+178,Tajikistan,TJK,Europe & Central Asia,Asia,Tajikistan,Tajikistan,Tajikistan,Tajikistan,Tadjiquistão,1,762,Tajikistan,TJ,TJK,Yes,38.82,70.55,NA,NA,Tajikistan,Dushanbe,38.55,68.766667,Asia
+179,Tanzania,TZA,Sub-Saharan Africa,Africa,Tanzania,Tanzania,United Republic of Tanzania,United Rep. of Tanzania,Tanzânia,1,834,"Tanzania, United Republic of",TZ,TZA,Yes,-6.13,34.91,NA,NA,Tanzania,Dar es Salaam,-6.8,39.283333,Africa
+180,Thailand,THA,East Asia & Pacific,Asia,Thailand,Thailand,Thailand,Thailand,Tailândia,1,764,Thailand,TH,THA,Yes,15.03,101.21,NA,NA,Thailand,Bangkok,13.75,100.516667,Asia
+181,Timor-Leste,TLS,East Asia & Pacific,Asia,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,1,626,Timor-Leste,TL,TLS,Yes,-8.78,125.9,Yes,NA,Timor-Leste,Dili,-8.58333333333333,125.6,Asia
+182,Togo,TGO,Sub-Saharan Africa,Africa,Togo,Togo,Togo,Togo,Togo,1,768,Togo,TG,TGO,Yes,8.42,1.07,NA,NA,Togo,Lome,6.11666666666667,1.216667,Africa
+183,Tonga,TON,East Asia & Pacific,Oceania,Tonga,Tonga,Tonga,Tonga,Tonga,1,776,Tonga,TO,TON,Yes,-21.18,-175.19,Yes,NA,Tonga,Nuku'alofa,-21.1333333333333,-175.2,Australia
+184,Trinidad and Tobago,TTO,Latin America & Caribbean,America,Trinidad,Trinidad,Trinidad and Tobago,Trinidad and Tobago,Trinidade e Tobago,1,780,Trinidad and Tobago,TT,TTO,Yes,10.3,-61.26,Yes,NA,Trinidad and Tobago,Port of Spain,10.65,-61.516667,North America
+185,Tunisia,TUN,Middle East & North Africa,Africa,Tunisia,Tunisia,Tunisia,Tunisia,Tunísia,1,788,Tunisia,TN,TUN,Yes,33.97,9.78,NA,NA,Tunisia,Tunis,36.8,10.183333,Africa
+186,Turkey,TUR,Europe & Central Asia,Europe,Turkey,Turkey,Turkey,Turkey,Turquia,1,792,Turkey,TR,TUR,Yes,39.21,35.51,NA,NA,Turkey,Ankara,39.9333333333333,32.866667,Europe
+187,Turkmenistan,TKM,Europe & Central Asia,Asia,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turcomenistão,1,795,Turkmenistan,TM,TKM,Yes,39.46,58.96,NA,NA,Turkmenistan,Ashgabat,37.95,58.383333,Asia
+188,Tuvalu,TUV,East Asia & Pacific,Oceania,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,1,798,Tuvalu,TV,TUV,Yes,-8.51,179.11,Yes,NA,Tuvalu,Funafuti,-8.51666666666667,179.216667,Australia
+189,Uganda,UGA,Sub-Saharan Africa,Africa,Uganda,Uganda,Uganda,Uganda,Uganda,1,800,Uganda,UG,UGA,Yes,1.2,32.5,NA,NA,Uganda,Kampala,0.316666666666667,32.55,Africa
+190,United Kingdom,GBR,Europe & Central Asia,Europe,UK,UK,United Kingdom,United Kingdom,Reino Unido,1,826,United Kingdom of Great Britain and Northern Ireland,GB,GBR,Yes,54.11,-1.91,NA,NA,United Kingdom,London,51.5,-0.083333,Europe
+191,Ukraine,UKR,Europe & Central Asia,Europe,Ukraine,Ukraine,Ukraine,Ukraine,Ucrânia,1,804,Ukraine,UA,UKR,Yes,49.18,31.46,NA,NA,Ukraine,Kyiv,50.4333333333333,30.516667,Europe
+192,United Arab Emirates,ARE,Middle East & North Africa,Asia,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,Emirados Árabes,1,784,United Arab Emirates,AE,ARE,Yes,24.04,54.44,NA,NA,United Arab Emirates,Abu Dhabi,24.4666666666667,54.366667,Asia
+193,Uruguay,URY,Latin America & Caribbean,America,Uruguay,Uruguay,Uruguay,Uruguay,Uruguai,1,858,Uruguay,UY,URY,Yes,-32.91,-55.97,NA,NA,Uruguay,Montevideo,-34.85,-56.166667,South America
+194,United States,USA,North America,America,USA,USA,United States of America,United States of America,Estados Unidos,1,840,United States of America,US,USA,Yes,39.5,-101.38,NA,NA,NA,Washington,38.883333,-77,North America
+195,Uzbekistan,UZB,Europe & Central Asia,Asia,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,Uzbequistão,1,860,Uzbekistan,UZ,UZB,Yes,41.67,63.61,NA,NA,Uzbekistan,Tashkent,41.3166666666667,69.25,Asia
+196,Vanuatu,VUT,East Asia & Pacific,Oceania,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,1,548,Vanuatu,VU,VUT,Yes,-15.59,167.48,Yes,NA,Vanuatu,Port-Vila,-17.7333333333333,168.316667,Australia
+197,"Venezuela, RB",VEN,Latin America & Caribbean,America,Venezuela,Venezuela,Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of),Venezuela,1,862,Venezuela (Bolivarian Republic of),VE,VEN,Yes,7.48,-66.04,NA,NA,Venezuela,Caracas,10.4833333333333,-66.866667,South America
+198,Vietnam,VNM,East Asia & Pacific,Asia,Vietnam,Vietnam,Viet Nam,Viet Nam,Vietnã,1,704,Viet Nam,VN,VNM,Yes,13.24,108.4,NA,NA,Vietnam,Hanoi,21.0333333333333,105.85,Asia
+199,"Yemen, Rep.",YEM,Middle East & North Africa,Asia,Yemen,Yemen,Yemen,Yemen,Iêmen,1,887,Yemen,YE,YEM,Yes,15.52,47.22,NA,NA,Yemen,Sanaa,15.35,44.2,Asia
+200,Zambia,ZMB,Sub-Saharan Africa,Africa,Zambia,Zambia,Zambia,Zambia,Zâmbia,1,894,Zambia,ZM,ZMB,Yes,-14.17,27.84,NA,NA,Zambia,Lusaka,-15.4166666666667,28.283333,Africa
+201,Zimbabwe,ZWE,Sub-Saharan Africa,Africa,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,Zimbábue,1,716,Zimbabwe,ZW,ZWE,Yes,-19.42,30.1,NA,NA,Zimbabwe,Harare,-17.8166666666667,31.033333,Africa
+202,American Samoa,ASM,East Asia & Pacific,Oceania,American Samoa,NA,American Samoa,American Samoa,Samoa Americana,0,16,American Samoa,AS,ASM,No,-14.3,-170.71,NA,USA,American Samoa,Pago Pago,-14.2666666666667,-170.7,Australia
+203,Northern Mariana Islands,MNP,East Asia & Pacific,Oceania,Northern Mariana Islands,NA,Northern Mariana Islands,Northern Mariana Islands,Ilhas Mariana do Norte,0,580,Northern Mariana Islands,MP,MNP,No,15.09,145.73,NA,USA,Northern Mariana Islands,Saipan,15.2,145.75,Australia
+204,"Taiwan, China",TWN,East Asia & Pacific,Asia,Taiwan,NA,"China, Taiwan Province of China","China, Taiwan Province of China",Taiwan,0,158,"Taiwan, Province of China[a]",TW,TWN,No,23.65,120.97,NA,NA,Taiwan,Taipei,25.0333333333333,121.516667,Asia
+205,Faroe Islands,FRO,Europe & Central Asia,Europe,Faroe Islands,NA,Faroe Islands,Faroe Islands,Ilhas Faroe,0,234,Faroe Islands,FO,FRO,No,62.08,-6.9,NA,Denmark,Faroe Islands,Torshavn,62,-6.766667,Europe
+206,Gibraltar,GIB,Europe & Central Asia,Europe,Gibraltar,NA,Gibraltar,Gibraltar,Gibraltar,0,292,Gibraltar,GI,GIB,No,36.13,-5.34,NA,UK,Gibraltar,Gibraltar,36.1333333333333,-5.35,Europe
+207,Greenland,GRL,Europe & Central Asia,Europe,Greenland,NA,Greenland,Greenland,Groenlândia,0,304,Greenland,GL,GRL,No,68.64,-43.28,NA,Denmark,Greenland,Nuuk,64.1833333333333,-51.75,Central America
+208,Isle of Man,IMN,Europe & Central Asia,Europe,Isle of Man,NA,Isle of Man,Isle of Man,Ilha de Man,0,833,Isle of Man,IM,IMN,No,54.2,-4.55,NA,UK,Isle of Man,Douglas,54.15,-4.483333,Europe
+209,Kosovo,XKX,Europe & Central Asia,Europe,Kosovo,NA,Kosovo,Kosovo,Kosovo,0,NA,NA,NA,NA,Yes,42.54,20.89,Yes,NA,NA,NA,NA,NA,NA
+210,British Virgin Islands,VGB,Latin America & Caribbean,America,British Virgin Islands,NA,British Virgin Islands,British Virgin Islands,Ilhas Virgens Britânicas,0,92,Virgin Islands (British),VG,VGB,No,18.42,-64.62,NA,UK,British Virgin Islands,Road Town,18.4166666666667,-64.616667,North America
+211,Cayman Islands,CYM,Latin America & Caribbean,America,Cayman Islands,NA,Cayman Islands,Cayman Islands,Ilhas Cayman,0,136,Cayman Islands,KY,CYM,No,19.31,-81.24,NA,UK,Cayman Islands,George Town,19.3,-81.383333,North America
+212,Dominica,DMA,Latin America & Caribbean,America,Dominica,NA,Dominica,Dominica,Dominica,0,212,Dominica,DM,DMA,Yes,15.4,-61.34,Yes,NA,Dominica,Roseau,15.3,-61.4,North America
+213,Sint Maarten (Dutch part),SXM,Latin America & Caribbean,America,Sint Maarten,NA,Sint Maarten,Sint Maarten (Dutch part),Sint Maarten,0,534,Sint Maarten (Dutch part),SX,SXM,No,18.03,-63.05,NA,Netherlands,Sint Maarten,Philipsburg,18.0166666666667,-63.033333,North America
+214,St. Kitts and Nevis,KNA,Latin America & Caribbean,America,Saint Kitts,NA,Saint Kitts,Saint Kitts and Nevis,São Cristóvão e Névis,1,659,Saint Kitts and Nevis,KN,KNA,Yes,17.28,-62.68,NA,UK,Saint Kitts and Nevis,Basseterre,17.3,-62.716667,North America
+215,St. Martin (French part),MAF,Latin America & Caribbean,America,Saint Martin,NA,Saint Martin,Saint Martin,Saint Martin,0,663,Saint Martin (French part),MF,MAF,No,18.09,-63.04,NA,France,Saint Martin,Marigot,18.0731,-63.0822,North America
+216,Turks and Caicos Islands,TCA,Latin America & Caribbean,America,Turks and Caicos Islands,NA,Turks and Caicos Islands,Turks and Caicos Islands,Ilhas Turcas e Caicos,0,796,Turks and Caicos Islands,TC,TCA,No,21.77,-71.76,NA,UK,Turks and Caicos Islands,Grand Turk,21.4666666666667,-71.133333,North America
+217,Virgin Islands (U.S.),VIR,Latin America & Caribbean,America,NA,NA,Virgin Islands (U.S.),Virgin Islands (U.S.),Ilhas Virgens Americanas,0,850,Virgin Islands (U.S.),VI,VIR,No,17.72,-64.76,NA,USA,US Virgin Islands,Charlotte Amalie,18.35,-64.933333,North America
+218,Bermuda,BMU,North America,America,Bermuda,NA,Bermuda,Bermuda,Bermuda,0,60,Bermuda,BM,BMU,No,32.3,-64.75,NA,UK,Bermuda,Hamilton,32.2833333333333,-64.783333,North America
+219,NA,NA,NA,Europe,Vatican,NA,Vatican,NA,Vaticano,NA,NA,NA,NA,NA,Yes,41.902841,12.45307,Yes,NA,NA,NA,NA,NA,NA
+220,NA,NA,NA,NA,French Guiana,NA,NA,NA,Guiana Francesa,NA,NA,NA,NA,NA,No,4.075451,-53.156833,NA,France,NA,NA,NA,NA,NA
+221,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

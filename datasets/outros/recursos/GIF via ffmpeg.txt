@@ -1,0 +1,7 @@
+#ORIENTAÇÕES PARA EXPORT DE GIF EM TERMINAL USANDO FFMPEG
+
+#GERA PALETA:
+ffmpeg -y -i FILENAME.MOV -vf fps=10,scale=320:-1:flags=lanczos,palettegen palette.png
+
+#EXPORTA GIF:
+ffmpeg -i FILENAME.MOV -i palette.png -filter_complex "fps=26,scale=500:-1:flags=lanczos[x];[x][1:v]paletteuse" FILENAME_OUTPUT.GIF
