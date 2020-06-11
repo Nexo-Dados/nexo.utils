@@ -21,7 +21,7 @@ plot.export <- function (title, id, project, subtitle = "", plot = last_plot(),
                       map = FALSE, extensions = c("pdf", "png"))
 {
   # change to theme_map if map
-  if (map) { theme = theme_map()}
+  if (map) { theme = ggthemes::theme_map()}
 
   # plot's temporary setting
   temp <- plot + theme + labs(title = title, subtitle = subtitle,
