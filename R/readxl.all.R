@@ -8,11 +8,11 @@
 #'
 #' @examples
 readxl.all <- function(file, df=FALSE) {
-  sheets <- excel_sheets(file)
+  sheets <- readxl::excel_sheets(file)
   if (df) {
-  list <- map_df(sheets, function(x) read_excel(file, sheet=x))
+  list <- purrr::map_df(sheets, function(x) readxl::read_excel(file, sheet=x))
   } else {
-  list <- map(sheets, function(x) read_excel(file, sheet=x))
+  list <- purrr::map(sheets, function(x) readxl::read_excel(file, sheet=x))
   }
   return(list)
 }
