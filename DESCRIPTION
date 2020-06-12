@@ -1,7 +1,7 @@
 Package: nexo.utils
 Type: Package
 Title: R functions and data for internal use (Nexo Jornal)
-Version: 0.1.0
+Version: 0.1.1
 Author: Gabriel Zanlorenssi, Gabriel Maia 
 Maintainer: Gabriel Zanlorenssi <gabrielzanlorenssi@gmail.com>
 Description: Functions to export plots and useful data sets.
@@ -10,3 +10,8 @@ Encoding: UTF-8
 LazyData: true
 Depends: 
     R (>= 2.10)
+Imports: 
+    ggthemes,
+    dplyr,
+    readxl,
+    purrr
