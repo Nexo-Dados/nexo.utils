@@ -29,19 +29,19 @@ plot.export <- function (title, id, project, subtitle = "", plot = last_plot(),
   # extensions
   map(extensions, function(ext) {
     # if pdf
-    if (extensions[ext] == "pdf") {
-      dir.create(paste("./", extensions[ext], sep = ""))
-      ggplot2::ggsave(file = paste("./", extensions[ext],
-                                   "/", extensions[ext], "_", id, "_", project,
-                                   ".", extensions[ext], sep = ""), plot = temp,
+    if (ext == "pdf") {
+      dir.create(paste("./", ext, sep = ""))
+      ggplot2::ggsave(file = paste("./", ext,
+                                   "/", ext, "_", id, "_", project,
+                                   ".", ext, sep = ""), plot = temp,
                       width = w, height = h, useDingbats = FALSE)
     }
     # others
     else {
-      dir.create(paste("./", extensions[ext], sep = ""))
-      ggplot2::ggsave(file = paste("./", extensions[ext],
-                                   "/", extensions[ext], "_", id, "_", project,
-                                   ".", extensions[ext], sep = ""), plot = temp,
+      dir.create(paste("./", ext, sep = ""))
+      ggplot2::ggsave(file = paste("./", ext,
+                                   "/", ext, "_", id, "_", project,
+                                   ".", ext, sep = ""), plot = temp,
                       width = w, height = h)
     }
   })
