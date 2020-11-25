@@ -36,3 +36,30 @@ infoPartidos %>%
   mutate(active = ifelse(number %in% c(31,54,44), FALSE, TRUE)) -> infoParty
 
 usethis::use_data(infoParty, overwrite = TRUE)
+
+#-- mapState
+mapState %>%
+  left_join(nexo.utils::infoState[,c(1:3)], by=c('ibge2')) -> mapState
+
+usethis::use_data(mapState, overwrite = TRUE)
+
+
+#-- atualizar infoMunic
+nexo.utils::infoMunic %>%
+  group_by(ibge7) %>%
+  mutate(n=n())  %>%
+  filter(n>1)-> x2 %>%
+
+nexo.utils::infoMunic %>%
+  filter(muni!="MURICI" | (muni=="MURICI" & metropolitan == "RM Maceió")) -> x2
+
+x2 %>%
+  mutate(is_metro = ifelse(is.na(metropolitan), TRUE, FALSE),
+         metro = metropolitan,
+         is_capital = ifelse(capital==1, TRUE, FALSE)) %>%
+  select(-one_of('metropolitan', 'capital'))  -> infoMunic
+
+usethis::use_data(infoMunic, overwrite = TRUE)
+
+
+

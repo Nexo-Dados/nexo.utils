@@ -5,3 +5,16 @@
 - Funcao para formatar numeros
 - Mudar data sets para tibbles
 - Require das funcoes
+
+
+# infoState:
+
+- mudar pop para popANO
+- ajustar governadores
+- checar N de municipios
+- reordenar colunas
+- adicionar variavel de area
+
+# mapState
+
+- adicionar uf como variavel tb

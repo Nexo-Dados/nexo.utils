@@ -5,12 +5,19 @@
 - Versão de desenvolvimento, pode conter insconsistências
 
 ## Versão 0.1.1
-### 25/11/2020
+### 11/2020
 
 - Atualizando população para 2020
 - Removendo municípios duplicados no dataset de população
 
-## Versão 0.1.2
-### 25/11/2020
+## Versão 0.1.1.1
+### 11/2020
 
 - Adicionando lista de partidos brasileiros (infoParty)
+
+## Versão 0.1.1.2
+### 11/2020
+
+- Ajuste no mapa de estados para ter mais variáveis
+- Ajuste no dataset infoMunic removendo municipio duplicado (MURICI-AL)
+- Ajuste no dataset infoMunic nas variaveis de região metropolitana e capital
