@@ -1,0 +1,11 @@
+## Versão 0.1.0
+### 05/2020
+
+- Subindo todos os dados utilizados pelo Nexo internamente para auxiliar a produção de gráficos
+- Versão de desenvolvimento, pode conter insconsistências
+
+## Versão 0.1.1
+### 25/11/2020
+
+- Atualizando população para 2020
+- Removendo municípios duplicados no dataset de população
