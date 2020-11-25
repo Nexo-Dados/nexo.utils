@@ -9,3 +9,8 @@
 
 - Atualizando população para 2020
 - Removendo municípios duplicados no dataset de população
+
+## Versão 0.1.2
+### 25/11/2020
+
+- Adicionando lista de partidos brasileiros (infoParty)
