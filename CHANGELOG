@@ -31,3 +31,17 @@
 
 - Fix no mapa de estados. Não foi dado upload corretamente
 
+## Versão 0.2
+### 08/21
+
+- Adicionada categorização de estimativa e censo na tabela de população
+- Correção de variáveis na tabela infoMunic
+- Capitalização da variável hex em infoParty
+- pop removido de infoState
+- adicionada tabela popState
+- mapCountries convertido de dataframe para sf
+
+
+
+
+

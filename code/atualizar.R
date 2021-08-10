@@ -1,3 +1,8 @@
+library(tidyverse)
+library(readxl)
+library(nexo.utils)
+library(sf)
+
 #-- remover duplicados
 popMunic %>%
   distinct() -> popMunic2
@@ -23,6 +28,12 @@ popMunic2 %>%
 
 usethis::use_data(popMunic, overwrite = TRUE)
 
+nexo.utils::popMunic %>%
+  mutate(type = case_when(year <= 1980 ~ "Censo",
+                          year %in% c(1991,2000,2010) ~ "Census",
+                          TRUE ~ "Estimated")) -> popMunic
+
+usethis::use_data(popMunic, overwrite = TRUE)
 
 #-- info partidos
 infoPartidos %>%
@@ -34,6 +45,9 @@ infoPartidos %>%
           number = 54,
           hex = "#CB8C91") %>%
   mutate(active = ifelse(number %in% c(31,54,44), FALSE, TRUE)) -> infoParty
+
+infoParty %>%
+  mutate(hex = str_to_upper(hex)) -> infoParty
 
 usethis::use_data(infoParty, overwrite = TRUE)
 
@@ -59,7 +73,44 @@ x2 %>%
          is_capital = ifelse(capital==1, TRUE, FALSE)) %>%
   select(-one_of('metropolitan', 'capital'))  -> infoMunic
 
+View(infoMunic)
+
+nexo.utils::infoMunic %>%
+  mutate(is_metro = ifelse(is_metro, FALSE, TRUE),
+         is_capital = replace_na(is_capital, FALSE)) -> infoMunic
+
 usethis::use_data(infoMunic, overwrite = TRUE)
 
 
+# Info state e populacao --------------------------------------------------
+
+nexo.utils::infoState %>%
+  select(-one_of("pop")) -> infoState
+
+usethis::use_data(infoState, overwrite = TRUE)
+
+nexo.utils::popMunic %>%
+  group_by(uf, ibge2, year) %>%
+  summarise(pop = sum(pop, na.rm=T)) -> popState
+
+usethis::use_data(popState, overwrite = TRUE)
+
+popState %>%
+  filter(str_sub(ibge2,1,1)==5) %>%
+  ggplot(aes(x=year, y=pop, col=uf)) + geom_line() +
+  scale_y_continuous(labels=scales::comma)
+
+
+# Corrigir mapa ------------------------------------------------------------
+
+library(sf)
+
+st_crs(nexo.utils::mapMunic)
+st_crs(nexo.utils::mapState)
+
+# mapCountries <- st_read("mapCountries2/mapCountries2.shp")
+
+mapCountries <- st_crs(nexo.utils::mapMunic)
+
+usethis::use_data(mapCountries, overwrite = TRUE)
 
