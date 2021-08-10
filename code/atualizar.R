@@ -110,7 +110,7 @@ st_crs(nexo.utils::mapState)
 
 # mapCountries <- st_read("mapCountries2/mapCountries2.shp")
 
-mapCountries <- st_crs(nexo.utils::mapMunic)
+st_crs(mapCountries) <- st_crs(nexo.utils::mapMunic)
 
 usethis::use_data(mapCountries, overwrite = TRUE)
 
