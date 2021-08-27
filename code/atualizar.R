@@ -114,3 +114,32 @@ st_crs(mapCountries) <- st_crs(nexo.utils::mapMunic)
 
 usethis::use_data(mapCountries, overwrite = TRUE)
 
+
+# Pop 2021 ----------------------------------------------------------------
+
+library(tidyverse)
+library(readxl)
+
+pop2021 <- read_excel("raw/estimativa_dou_2021.xls",
+                      sheet = "Municípios", skip = 1) %>%
+  set_names("uf", "ibge2", "ibge5", "nome", "pop") %>%
+  mutate(year=2021,
+         ibge7 = as.numeric(paste0(ibge2,ibge5)),
+         type = "Estimated",
+         ibge6 = as.numeric(str_sub(ibge7,1,6)),
+         pop = as.numeric(gsub("\\.", "", gsub("\\(.*", "", pop)))) %>%
+  select(uf, ibge2, ibge6, ibge7, year, pop, type) %>%
+  drop_na()
+
+popMunic %>%
+  select(uf, ibge2, ibge6, ibge7, year, pop, type) %>%
+  bind_rows(pop2021) -> popMunic
+
+usethis::use_data(popMunic, overwrite = TRUE)
+
+popMunic %>%
+  group_by(uf, ibge2, year) %>%
+  summarise(pop = sum(pop, na.rm=T)) -> popState
+
+usethis::use_data(popState, overwrite = TRUE)
+

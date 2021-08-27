@@ -41,7 +41,10 @@
 - adicionada tabela popState
 - mapCountries convertido de dataframe para sf
 
+## Versão 0.2.1
+### 08/21
 
-
+- Adicionada pop 2021 de municipios e estados
+- Reordancao de colunas em popMunic
 
 
