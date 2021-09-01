@@ -143,3 +143,13 @@ popMunic %>%
 
 usethis::use_data(popState, overwrite = TRUE)
 
+#-- mollweide no mapa
+library(tidyverse)
+library(sf)
+
+mapCountries <- nexo.utils::mapCountries %>%
+  st_transform(crs=st_crs("+proj=moll +x_0=0 +y_0=0 +lat_0=0 +lon_0=0"))
+
+
+usethis::use_data(mapCountries, overwrite = TRUE)
+
