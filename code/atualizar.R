@@ -153,3 +153,20 @@ mapCountries <- nexo.utils::mapCountries %>%
 
 usethis::use_data(mapCountries, overwrite = TRUE)
 
+##-- fao stat
+
+library(readxl)
+library(tidyverse)
+library(sf)
+
+fao_code <- read_excel("raw/fao_code.xlsx")
+
+nexo.utils::infoCountries %>%
+  left_join(fao_code[,c(2,3)], by=c('iso3'='ISO3'))  %>%
+  mutate(isCountry = ifelse(isCountry==1, TRUE, FALSE),
+         isSmall = ifelse(isSmall=="Yes", TRUE, FALSE),
+         isEU = ifelse(isEU=="Yes", TRUE, FALSE)) -> infoCountries
+
+usethis::use_data(infoCountries, overwrite = TRUE)
+
+

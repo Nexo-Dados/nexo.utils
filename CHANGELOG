@@ -52,5 +52,13 @@
 
 - Projeção mollweide em mapCountries
 
+## Versão 0.2.3
+### 10/21
+
+- Código númerico da FAO adicionado em infoCountries
+- isEU, isCountry e isSmall convertidos para booleanos em infoCountries
+
+
+
 
 
