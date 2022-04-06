@@ -2,4 +2,4 @@
 ## Pacote utilizado pelo Nexo Jornal para auxiliar a produção de gráficos
 
 
-Em estágio de desenvolvimento. Consultar changelog
+Em estágio de desenvolvimento. 
