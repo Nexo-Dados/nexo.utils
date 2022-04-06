@@ -170,3 +170,21 @@ nexo.utils::infoCountries %>%
 usethis::use_data(infoCountries, overwrite = TRUE)
 
 
+# Atualizar info countries ------------------------------------------------
+
+library(tidyverse)
+
+infoCountries <- readxl::read_excel("raw/countries.xlsx") %>%
+  select(-region) %>%
+  mutate_at(vars(20:23), round, digits=2) %>%
+  mutate(isIndependent = ifelse(isIndependent=="VERDADEIRO", TRUE, FALSE),
+         isEU = ifelse(isEU=="VERDADEIRO", TRUE, FALSE),
+         parentState = ifelse(parentState=="NA", NA, parentState))
+
+usethis::use_data(infoCountries, overwrite=TRUE)
+
+
+
+
+
+

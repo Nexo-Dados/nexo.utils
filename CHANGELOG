@@ -58,7 +58,23 @@
 - Código númerico da FAO adicionado em infoCountries
 - isEU, isCountry e isSmall convertidos para booleanos em infoCountries
 
+## Versão 0.3
+### 04/22
 
+Grandes mudanças no infoCountries:
+
+- namePTBR: Bielorússia->Belarus, Suazilândia->Eswatini, Holanda->Países Baixos
+- eliminadas as diversas colunas com nomes em inglês, eram totalmente disfuncionais. Criada uma nova como nameEN
+- isCountry e isIndependent estava irredudante. isIndependent fica como países da ONU + vaticano, palestina, kosovo, taiwan, ilhas do canal, ilha de man, saara ocidental
+- novas colunas lógicas: isUN, isNATO, wasURSS
+- Reino Unido retirado de isEU
+- nenhuma dessas colunas, atualmente, inclui os territórios dependentes de membros
+- nova coluna fifa, com confederação de futebol de cada país. Se não farte de nenhuma fica como "Not affiliated"
+- Caucaso agora está padronizado em continent5 e continent7 como Asia
+- Groenlândia agora está padronizada em continent5 e continent7 como North America
+- criada variável area, em km2. isSmall é definido como área menor que 25.000 km2
+- Ajustada ordem das colunas, para uma sequência mais lógica
+- Ajustados informações faltantes em diversas colunas
 
 
 
