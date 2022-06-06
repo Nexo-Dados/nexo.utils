@@ -176,13 +176,19 @@ library(tidyverse)
 
 infoCountries <- readxl::read_excel("raw/countries.xlsx") %>%
   select(-region) %>%
-  mutate_at(vars(20:23), round, digits=2) %>%
+  mutate_at(vars(21:24), round, digits=2) %>%
   mutate(isIndependent = ifelse(isIndependent=="VERDADEIRO", TRUE, FALSE),
          isEU = ifelse(isEU=="VERDADEIRO", TRUE, FALSE),
-         parentState = ifelse(parentState=="NA", NA, parentState))
+         parentState = ifelse(parentState=="NA", NA, parentState)) %>%
+  rename(wasUSSR = wasURSS)
 
-usethis::use_data(infoCountries, overwrite=TRUE)
+usethis::use_data(infoCountries, overwrite = TRUE)
 
+# Maps --------------------------------------------------------------------
+
+mapCountries <- readRDS("./raw/mapCountries.rds")
+
+usethis::use_data(mapCountries, overwrite = TRUE)
 
 
 
