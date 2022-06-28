@@ -179,6 +179,7 @@ infoCountries <- readxl::read_excel("raw/countries.xlsx") %>%
   mutate_at(vars(21:24), round, digits=2) %>%
   mutate(isIndependent = ifelse(isIndependent=="VERDADEIRO", TRUE, FALSE),
          isEU = ifelse(isEU=="VERDADEIRO", TRUE, FALSE),
+         isUN = ifelse(isUN=="VERDADEIRO", TRUE, FALSE),
          parentState = ifelse(parentState=="NA", NA, parentState)) %>%
   rename(wasUSSR = wasURSS)
 

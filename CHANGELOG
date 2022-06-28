@@ -82,5 +82,10 @@ Grandes mudanças no infoCountries:
 - Adição da função nexo.set para chamar automaticamente os pacotes que usamos
 - Atualização do mapCountries, utilizando o maps::map_data("world") como modelo
 
+## Versão 0.3.1.1
+## 06/22
+
+- Correção isUN em infoCountries, como logical
+- Correção do mapCountries (aparecia como corrompido)
 
 
