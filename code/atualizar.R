@@ -278,8 +278,14 @@ infoMunic %>%
 
 usethis::use_data(infoMunic, overwrite = TRUE)
 
+library(tidyverse)
+library(nexo.utils)
 
+infoMunic %>%
+  rename(ibge_meso = ibge_micro,
+         ibge_micro = microCode) -> infoMunic
 
+usethis::use_data(infoMunic, overwrite = TRUE)
 
 
 
