@@ -191,6 +191,111 @@ mapCountries <- readRDS("./raw/mapCountries.rds")
 
 usethis::use_data(mapCountries, overwrite = TRUE)
 
+# Atualizar censo 2022 ----------------------------------------------------
+
+#--
+library(tidyverse)
+library(readxl)
+
+#-- sistematizacao censo
+pop1 <- read_excel("./raw/ipeadata[18-01-2023-12-39].xls") %>%
+  pivot_longer(cols = `1872`:`2010`) %>%
+  drop_na(value) %>%
+  set_names("uf", "codigo_ibge7", "municipio", "ano", "populacao") %>%
+  mutate(ano = as.numeric(ano),
+         codigo_ibge7 = as.numeric(codigo_ibge7))
+
+
+pop2 <- read_xlsx("./raw/tabela4709.xlsx", skip=3) %>%
+  select(1,3) %>%
+  set_names("codigo_ibge7", "populacao") %>%
+  mutate_at(vars(codigo_ibge7), as.numeric) %>%
+  mutate(ano = 2022) %>%
+  drop_na()
+
+pop1 %>%
+  bind_rows(pop2) %>%
+  arrange(ano) %>%
+  rename(ibge7=codigo_ibge7) %>%
+  group_by(ibge7) %>%
+  fill(uf, municipio) %>%
+  drop_na() -> x
+
+#-- pop munic
+popMunic %>%
+  select(uf, ibge2, ibge7, year, pop, type) %>%
+  filter(!(year %in% c(1996,2007))) %>%
+  filter(type!="Estimated") %>%
+  mutate(type=ifelse(type=="Censo", "Census", type)) %>%
+  bind_rows(x  %>%
+              select(uf, ibge7, ano, populacao) %>%
+              rename(year = ano, pop=populacao) %>%
+              mutate(ibge2 = as.numeric(str_sub(ibge7,1,2))) %>%
+              mutate(type=ifelse(year%in%c(1996,2007), "Population count",
+                                 "Census"))) -> popMunic
+
+pop2022 %>%
+  group_by(uf, ibge2, year, type) %>%
+  summarise(pop = sum(pop, na.rm=T)) -> popState
+
+usethis::use_data(popMunic, overwrite = TRUE)
+usethis::use_data(popState, overwrite = TRUE)
+
+#-- atualizar info state
+infoState %>%
+  select(-governor, -pop)  %>%
+  rename(n_munic = municip) -> infoState
+
+usethis::use_data(infoState, overwrite = TRUE)
+
+#-- atualizar info munic
+
+#- litoraneos
+lit <- read_excel("./raw/litoraneos.xlsx", skip=3) %>%
+  select(2) %>%
+  set_names("ibge7") %>%
+  mutate_all(as.numeric) %>%
+  drop_na() %>%
+  mutate(is_coast = TRUE)
+
+#- fronteiricos
+brd <- read_excel("./raw/fronteiricos.xlsx", skip=3) %>%
+  select(2) %>%
+  set_names("ibge7") %>%
+  mutate_all(as.numeric) %>%
+  drop_na() %>%
+  mutate(is_border = TRUE)
+
+
+#- atualizacao
+infoMunic %>%
+  rename(ibge1 = regionCode,
+         region = regionName,
+         ibge_meso = mesoCode,
+         meso = mesoName,
+         ibge_micro = mesoCode,
+         micro = microName) %>%
+  select(-muni) %>%
+  left_join(lit, by="ibge7") %>%
+  left_join(brd, by="ibge7") %>%
+  mutate_at(vars(is_coast, is_border), replace_na, FALSE) -> infoMunic
+
+usethis::use_data(infoMunic, overwrite = TRUE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

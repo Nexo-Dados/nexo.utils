@@ -17,7 +17,7 @@
 #'
 #' @examples
 plot.export <- function (title, id, project, subtitle = "", plot = last_plot(),
-                      display = TRUE, w = 15, h = 10, caption = Sys.time(), theme = theme_minimal(),
+                      display = FALSE, w = 15, h = 10, caption = Sys.time(), theme = theme_minimal(),
                       map = FALSE, extensions = c("pdf", "png"))
 {
   # change to theme_map if map

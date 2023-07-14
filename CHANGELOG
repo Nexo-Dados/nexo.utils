@@ -88,4 +88,16 @@ Grandes mudanças no infoCountries:
 - Correção isUN em infoCountries, como logical
 - Correção do mapCountries (aparecia como corrompido)
 
+## Versão 0.4
+## 07/03
+
+- Adicionados dados do Censo 2022, Contagem 1996, Contagem 2007 em popMunic e popState
+- Renomeado "Censo" para "Census" na variável type
+- is_coast e is_border adicionados no infoMunic
+- padronizacao no nome de colunas do infoMunic
+- padronizacao no nome de colunas do infoState
+- muni removido de infoMunic
+- governor e pop removidos de infoState
+- parametro display no plot.export alterado para FALSE
+- nova funcao plot2, simplificacao do plot.export para salvar mais rapido. adicionado svg no plot2
 
