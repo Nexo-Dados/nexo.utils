@@ -1,7 +1,3 @@
-library(tidyverse)
-library(readxl)
-library(nexo.utils)
-library(sf)
 
 #-- remover duplicados
 popMunic %>%
