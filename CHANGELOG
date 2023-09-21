@@ -101,3 +101,10 @@ Grandes mudanças no infoCountries:
 - parametro display no plot.export alterado para FALSE
 - nova funcao plot2, simplificacao do plot.export para salvar mais rapido. adicionado svg no plot2
 
+## Versão 0.4.1
+
+- Adição de duas novas funções paste_muni_uf e nexo_cut
+- Remoção de map.small, que estava obsoleta
+- Correção de erros no popMunic e popState
+
+
