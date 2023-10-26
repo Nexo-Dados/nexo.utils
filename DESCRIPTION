@@ -1,7 +1,7 @@
 Package: nexo.utils
 Type: Package
 Title: R functions and data for internal use (Nexo Jornal)
-Version: 0.4.1
+Version: 0.4.1.1
 Author: Gabriel Zanlorenssi, Gabriel Maia 
 Maintainer: Gabriel Zanlorenssi <gabrielzanlorenssi@gmail.com>
 Description: Functions to export plots and useful data sets.

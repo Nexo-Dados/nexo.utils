@@ -107,4 +107,7 @@ Grandes mudanças no infoCountries:
 - Remoção de map.small, que estava obsoleta
 - Correção de erros no popMunic e popState
 
+## Versão 0.4.1.1
+
+- Correção de isUN em Hong Kong e Dominica em infoCountries
 

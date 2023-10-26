@@ -281,6 +281,14 @@ popMunic %>%
 usethis::use_data(popMunic, overwrite = TRUE)
 usethis::use_data(popState, overwrite = TRUE)
 
+#-- infoCountries
+library(tidyverse)
+
+infoCountries <- nexo.utils::infoCountries %>%
+  mutate(isUN = case_when(iso3 == "HKG" ~ FALSE,
+                          iso3 == "DMA" ~ TRUE,
+                          TRUE ~ isUN))
+usethis::use_data(infoCountries, overwrite = TRUE)
 
 
 
